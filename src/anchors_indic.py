@@ -4,6 +4,8 @@ Both sides are reduced to a language-independent vocabulary:
     ACT:IPC  ACT:CRPC  ACT:CPC  ACT:CONST        codes and the Constitution
     ACT:Y1922                                    any other named act -> keyed by its YEAR
     SEC:IPC:302  SEC:CONST:21  SEC:Y1922:16      section / article numbers
+    SEC:?:342                                    'weak' anchor: number known, act unknown
+                                                 (Marathi/Gujarati use one word for Section and Article)
 Act NAMES are not matched across languages (they are translated or transliterated differently);
 years, section numbers and the big codes are what survive translation."""
 import re
@@ -12,8 +14,10 @@ DIG = str.maketrans("०१२३४५६७८९૦૧૨૩૪૫૬૭૮�
 DEV, GUJ = r"\u0900-\u097F", r"\u0A80-\u0AFF"
 W = rf"[{DEV}{GUJ}A-Za-z]*"            # rest of an inflected word (\w does NOT cover Indic vowel signs)
 SENT_I = re.compile(r"(?<=[।.!?])\s+")
-LETMAP = {"ए": "A", "बी": "B", "सी": "C", "डी": "D", "એ": "A", "બી": "B", "સી": "C", "ડી": "D"}
-SUF = r"(?:[A-Za-z]{1,2}|ए|बी|सी|डी|એ|બી|સી|ડી)"
+# clause/suffix letters glued to a section number: 498क -> 498A (Hindi/Gujarati/Marathi lettering)
+LETMAP = {"ए": "A", "बी": "B", "सी": "C", "डी": "D", "क": "A", "ख": "B", "ग": "C", "घ": "D", "अ": "A", "ब": "B",
+          "એ": "A", "બી": "B", "સી": "C", "ડી": "D", "ક": "A", "ખ": "B", "ગ": "C", "ઘ": "D"}
+SUF = r"(?:[A-Za-z]{1,2}|बी|सी|डी|બી|સી|ડી|ए|क|ख|ग|घ|अ|ब|એ|ક|ખ|ગ|ઘ)"
 
 CODES = [
     ("IPC", rf"भारतीय\s+दंड\s*(?:संहित|विधान){W}|ભારતીય\s+દંડ\s+સંહિત{W}|"
@@ -25,11 +29,14 @@ CODES = [
     ("CONST", rf"संविधान{W}|राज्यघटन{W}|બંધારણ{W}"),
 ]
 CODE_RX = [(c, re.compile(r)) for c, r in CODES]
+# "Constitution of India" -> ACT:CONST even when no article/section number is attached
+CONST_INDIA = re.compile(rf"(?:भारत{W}|भारतीय)\s+(?:का\s+|की\s+|चे\s+|च्या\s+)?(?:संविधान|राज्यघटन){W}|ભારત{W}\s+બંધારણ{W}")
 
 # keyword that marks "some named Act"; its YEAR is the anchor
-ACTWORD = re.compile(rf"अधिनियम{W}|कायद{W}|कायद्य{W}|एक्ट|ऍक्ट|અધિનિયમ{W}|એક્ટ|કાયદ{W}")
+ACTWORD = re.compile(rf"अधिनियम{W}|कायद{W}|कायद्य{W}|[अएऍॲ]ॅ?क्ट|[એઍ]ક્ટ|અધિનિયમ{W}|કાયદ{W}")
 YEAR_AFTER = re.compile(r"[\s,]*(?:\([^)]{0,40}\)\s*)?(?:ऑफ|ओफ|ઓફ|of)?\s*(1[89]\d\d|20\d\d)(?!\d)")
-YEAR_BEFORE = re.compile(r"(?<!\d)(1[89]\d\d|20\d\d)(?!\d)")
+# year BEFORE the keyword only counts when followed by a genitive particle: "1952 का ... अधिनियम"
+YEAR_BEFORE = re.compile(rf"(?<!\d)(1[89]\d\d|20\d\d)\s*(?:का|की|के|चा|ची|चे|च्या|ના|ની|નો|નું|નાં)(?![{DEV}{GUJ}])")
 
 MARK = rf"(?:धारा{W}|कलम{W}|કલમ{W}|अनुच्छेद{W}|[Ss]ections?|[Aa]rticles?|(?<![A-Za-z])ss?\.)"
 ONE = rf"\d+(?:-?{SUF}(?![A-Za-z{DEV}{GUJ}]))?(?:\s*\([^)]{{0,12}}\))*"
@@ -54,6 +61,8 @@ def extract_anchors_indic(text):
         mentions = []                              # (start, end, canonical id)
         for c, rx in CODE_RX:
             mentions += [(m.start(), m.end(), c) for m in rx.finditer(sent)]
+        if CONST_INDIA.search(sent):
+            acts.add("ACT:CONST")
         for m in ACTWORD.finditer(sent):
             a = YEAR_AFTER.match(sent, m.end())
             year = a.group(1) if a else None
@@ -81,12 +90,17 @@ def extract_anchors_indic(text):
             else:
                 pending.append(nums)
         acts.update(f"ACT:{c}" for _, _, c in mentions if c != "CONST")
+    real_acts = {a for a in acts if a != "ACT:CONST"}
+    weak = set()
     if len(acts) == 1 and pending:                 # orphan sections: attach only if the case names one act
         a = next(iter(acts))[4:]
         for nums in pending:
             secs.update(f"SEC:{a}:{n}" for n in nums)
-    unattributed = 0 if len(acts) == 1 else len(pending)
-    return {"acts": sorted(acts), "secs": sorted(secs), "all": sorted(acts | secs), "n_unattributed": unattributed}
+    else:
+        for nums in pending:                       # otherwise keep them as weak anchors (number only)
+            weak.update(f"SEC:?:{n}" for n in nums)
+    return {"acts": sorted(acts), "secs": sorted(secs), "weak": sorted(weak),
+            "all": sorted(acts | secs), "n_unattributed": len(pending) if len(acts) != 1 else 0}
 
 
 _Y = re.compile(r"^(ACT|SEC):.*_ACT_(\d{4})(?::(.+))?$")
