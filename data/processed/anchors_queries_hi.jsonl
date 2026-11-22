@@ -18,7 +18,7 @@
 {"document_id":"2010_1189","anc":["ACT:Y1958","ACT:Y1999","SEC:Y1958:46","SEC:Y1958:56"],"weak":["SEC:?:46"],"oracle":["ACT:Y1958","ACT:Y1999","SEC:Y1958:46","SEC:Y1958:56"]}
 {"document_id":"1976_137","anc":["ACT:Y1961","SEC:Y1961:4"],"weak":[],"oracle":["ACT:Y1961","SEC:Y1961:4"]}
 {"document_id":"1980_183","anc":["ACT:Y1968"],"weak":[],"oracle":["ACT:Y1968"]}
-{"document_id":"2005_461","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:324","SEC:IPC:34"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:302","SEC:IPC:324"]}
+{"document_id":"2005_461","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:324I","SEC:IPC:34I"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:302","SEC:IPC:324"]}
 {"document_id":"2006_133","anc":["ACT:Y1973"],"weak":[],"oracle":["ACT:Y1973"]}
 {"document_id":"1971_80","anc":["ACT:Y1957","SEC:Y1957:11"],"weak":[],"oracle":["ACT:Y1957","SEC:Y1957:11"]}
 {"document_id":"1974_222","anc":["ACT:Y1872","ACT:Y1925"],"weak":[],"oracle":["ACT:Y1872","ACT:Y1925"]}
@@ -158,7 +158,7 @@
 {"document_id":"2000_771","anc":["ACT:Y1901","ACT:Y1926","ACT:Y1939"],"weak":[],"oracle":["ACT:Y1901","ACT:Y1926","ACT:Y1939"]}
 {"document_id":"2003_1348","anc":["ACT:IPC","SEC:IPC:201","SEC:IPC:242","SEC:IPC:302","SEC:IPC:34"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:201","SEC:IPC:302","SEC:IPC:34"]}
 {"document_id":"2000_1157","anc":["ACT:Y1956","ACT:Y1973","SEC:Y1973:39"],"weak":["SEC:?:39"],"oracle":["ACT:Y1956","ACT:Y1973","SEC:Y1973:39"]}
-{"document_id":"1987_600","anc":["ACT:CRPC","SEC:CRPC:120B","SEC:CRPC:195","SEC:CRPC:420","SEC:CRPC:465","SEC:CRPC:468","SEC:CRPC:471","SEC:CRPC:474"],"weak":[],"oracle":["ACT:CRPC","ACT:IPC","SEC:CRPC:195","SEC:CRPC:468","SEC:IPC:120B","SEC:IPC:420","SEC:IPC:465","SEC:IPC:468","SEC:IPC:471","SEC:IPC:474"]}
+{"document_id":"1987_600","anc":["ACT:CRPC","ACT:IPC","SEC:CRPC:195","SEC:CRPC:468","SEC:IPC:120B","SEC:IPC:420","SEC:IPC:465","SEC:IPC:468","SEC:IPC:471","SEC:IPC:474"],"weak":["SEC:?:195","SEC:?:471","SEC:?:474"],"oracle":["ACT:CRPC","ACT:IPC","SEC:CRPC:195","SEC:CRPC:468","SEC:IPC:120B","SEC:IPC:420","SEC:IPC:465","SEC:IPC:468","SEC:IPC:471","SEC:IPC:474"]}
 {"document_id":"1995_1047","anc":["ACT:Y1949","SEC:Y1949:13"],"weak":[],"oracle":["ACT:Y1949","SEC:Y1949:13"]}
 {"document_id":"2009_588","anc":["ACT:Y1973","SEC:Y1973:13B"],"weak":[],"oracle":["ACT:Y1973","SEC:Y1973:13B"]}
 {"document_id":"1976_112","anc":["ACT:Y1925","SEC:Y1925:3","SEC:Y1925:4","SEC:Y1925:60"],"weak":[],"oracle":["ACT:Y1925","SEC:Y1925:3","SEC:Y1925:4","SEC:Y1925:60"]}
@@ -186,7 +186,7 @@
 {"document_id":"2008_1478","anc":["ACT:IPC","SEC:IPC:302"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:302"]}
 {"document_id":"1998_661","anc":["ACT:Y1888","ACT:Y1949","ACT:Y1968"],"weak":[],"oracle":["ACT:Y1888","ACT:Y1949"]}
 {"document_id":"2008_898","anc":["ACT:Y1872","ACT:Y1882","ACT:Y1963"],"weak":[],"oracle":["ACT:CPC","ACT:IPC","ACT:Y1872","ACT:Y1882","ACT:Y1963"]}
-{"document_id":"2006_70","anc":["ACT:CONST","ACT:Y1966","SEC:CONST:37"],"weak":["SEC:?:37"],"oracle":["ACT:CONST","ACT:Y1966","SEC:CONST:37","SEC:Y1966:37"]}
+{"document_id":"2006_70","anc":["ACT:CONST","ACT:Y1966","SEC:CONST:37","SEC:Y1966:37"],"weak":[],"oracle":["ACT:CONST","ACT:Y1966","SEC:CONST:37","SEC:Y1966:37"]}
 {"document_id":"1979_343","anc":["ACT:CONST","ACT:Y1951","ACT:Y1956","SEC:CONST:14"],"weak":["SEC:?:76"],"oracle":["ACT:CONST","ACT:Y1951","ACT:Y1956","SEC:CONST:14"]}
 {"document_id":"1985_361","anc":["ACT:Y1965","SEC:Y1965:32"],"weak":[],"oracle":["ACT:Y1965","SEC:Y1965:32"]}
 {"document_id":"1967_47","anc":["ACT:Y1958"],"weak":[],"oracle":["ACT:Y1958"]}
@@ -194,7 +194,7 @@
 {"document_id":"2004_75","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:498A"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:302","SEC:IPC:498A"]}
 {"document_id":"2006_705","anc":["ACT:CPC"],"weak":[],"oracle":["ACT:CPC"]}
 {"document_id":"1971_541","anc":["ACT:Y1922","SEC:Y1922:2"],"weak":[],"oracle":["ACT:Y1922","SEC:Y1922:2"]}
-{"document_id":"1971_313","anc":[],"weak":["SEC:?:324"],"oracle":["ACT:IPC","SEC:IPC:324"]}
+{"document_id":"1971_313","anc":["ACT:IPC","SEC:IPC:324"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:324"]}
 {"document_id":"2003_1012","anc":["ACT:Y1956","SEC:Y1956:10A","SEC:Y1956:10B"],"weak":[],"oracle":["ACT:Y1956","SEC:Y1956:10A","SEC:Y1956:10B"]}
 {"document_id":"1979_503","anc":["ACT:CONST","ACT:Y1951","SEC:CONST:173","SEC:Y1951:100"],"weak":["SEC:?:123"],"oracle":["ACT:CONST","ACT:Y1951","SEC:CONST:173","SEC:Y1951:100"]}
 {"document_id":"2008_2563","anc":["ACT:Y1839","ACT:Y1952","ACT:Y1962","ACT:Y1971","ACT:Y1978","SEC:Y1962:29"],"weak":["SEC:?:36","SEC:?:37"],"oracle":["ACT:Y1839","ACT:Y1952","ACT:Y1962","ACT:Y1971","ACT:Y1978","SEC:Y1962:29"]}
@@ -207,7 +207,7 @@
 {"document_id":"1967_13","anc":["ACT:Y1955"],"weak":[],"oracle":["ACT:Y1955"]}
 {"document_id":"1972_107","anc":[],"weak":["SEC:?:30","SEC:?:32"],"oracle":[]}
 {"document_id":"1960_97","anc":["ACT:Y1947"],"weak":[],"oracle":["ACT:Y1947"]}
-{"document_id":"1994_751","anc":["ACT:IPC","SEC:IPC:302"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:302"]}
+{"document_id":"1994_751","anc":["ACT:IPC","SEC:IPC:302I"],"weak":[],"oracle":["ACT:IPC","SEC:IPC:302"]}
 {"document_id":"2008_1926","anc":["ACT:IPC"],"weak":[],"oracle":["ACT:IPC"]}
 {"document_id":"2009_1778","anc":["ACT:Y1971"],"weak":[],"oracle":["ACT:Y1971"]}
 {"document_id":"1986_294","anc":["ACT:Y1948"],"weak":[],"oracle":["ACT:Y1948"]}
@@ -350,11 +350,11 @@
 {"document_id":"1994_1118","anc":[],"weak":[],"oracle":[]}
 {"document_id":"2022_160","anc":["ACT:Y2002","SEC:Y2002:17"],"weak":[],"oracle":["ACT:Y2002"]}
 {"document_id":"1993_403","anc":[],"weak":["SEC:?:6"],"oracle":[]}
-{"document_id":"2021_233","anc":["ACT:Y1961","SEC:Y1961:80"],"weak":[],"oracle":["ACT:Y1961","SEC:Y1961:80IA"]}
+{"document_id":"2021_233","anc":["ACT:Y1961","SEC:Y1961:80IA"],"weak":[],"oracle":["ACT:Y1961","SEC:Y1961:80IA"]}
 {"document_id":"2009_444","anc":["ACT:CPC"],"weak":[],"oracle":["ACT:CPC"]}
 {"document_id":"1973_315","anc":["ACT:Y1971"],"weak":[],"oracle":["ACT:Y1971"]}
 {"document_id":"2005_143","anc":["ACT:Y1957","SEC:Y1957:5G"],"weak":[],"oracle":["ACT:Y1957","SEC:Y1957:5G"]}
 {"document_id":"1997_1154","anc":["ACT:Y1971","SEC:Y1971:2"],"weak":[],"oracle":["ACT:Y1971","SEC:Y1971:2"]}
-{"document_id":"1962_79","anc":["ACT:Y1887","ACT:Y1949"],"weak":["SEC:?:14","SEC:?:2"],"oracle":["ACT:Y1887","ACT:Y1949"]}
+{"document_id":"1962_79","anc":["ACT:Y1887","ACT:Y1949"],"weak":["SEC:?:14A","SEC:?:2"],"oracle":["ACT:Y1887","ACT:Y1949"]}
 {"document_id":"1972_537","anc":["ACT:CONST","SEC:CONST:286"],"weak":[],"oracle":["ACT:CONST","SEC:CONST:286"]}
 {"document_id":"1968_77","anc":["ACT:Y1901","ACT:Y1952","SEC:Y1952:20"],"weak":[],"oracle":["ACT:Y1901","ACT:Y1952","SEC:Y1952:20"]}
