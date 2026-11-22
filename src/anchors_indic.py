@@ -13,15 +13,49 @@ import re
 DIG = str.maketrans("०१२३४५६७८९૦૧૨૩૪૫૬૭૮૯", "01234567890123456789")
 DEV, GUJ = r"\u0900-\u097F", r"\u0A80-\u0AFF"
 W = rf"[{DEV}{GUJ}A-Za-z]*"            # rest of an inflected word (\w does NOT cover Indic vowel signs)
-SENT_I = re.compile(r"(?<=[।.!?])\s+")
-# clause/suffix letters glued to a section number: 498क -> 498A (Hindi/Gujarati/Marathi lettering)
-LETMAP = {"ए": "A", "बी": "B", "सी": "C", "डी": "D", "क": "A", "ख": "B", "ग": "C", "घ": "D", "अ": "A", "ब": "B",
-          "એ": "A", "બી": "B", "સી": "C", "ડી": "D", "ક": "A", "ખ": "B", "ગ": "C", "ઘ": "D"}
-SUF = r"(?:[A-Za-z]{1,2}|बी|सी|डी|બી|સી|ડી|ए|क|ख|ग|घ|अ|ब|એ|ક|ખ|ગ|ઘ)"
+
+# letter suffixes of section numbers, written in Indic script: 498क -> 498A, 13 बी -> 13B, 80-आई ए -> 80IA
+LMAP = {"ए": "A", "बी": "B", "सी": "C", "डी": "D", "ई": "E", "एफ": "F", "जी": "G", "एच": "H", "आई": "I",
+        "एल": "L", "एम": "M", "एन": "N", "पी": "P", "आर": "R", "एस": "S", "टी": "T", "यू": "U", "व्ही": "V",
+        "एक्स": "X", "वाय": "Y", "झेड": "Z", "क": "A", "ख": "B", "ग": "C", "घ": "D", "अ": "A", "ब": "B",
+        "એ": "A", "બી": "B", "સી": "C", "ડી": "D", "ઈ": "E", "એફ": "F", "જી": "G", "એચ": "H", "આઈ": "I",
+        "એલ": "L", "એમ": "M", "એન": "N", "પી": "P", "આર": "R", "એસ": "S", "ટી": "T", "યુ": "U", "વી": "V",
+        "એક્સ": "X", "વાય": "Y", "ઝેડ": "Z", "ક": "A", "ખ": "B", "ગ": "C", "ઘ": "D"}
+LET_SORTED = sorted(LMAP, key=len, reverse=True)
+LET = "|".join(LET_SORTED)
+SUFRX = rf"(?:-?[A-Za-z]{{1,2}}|-?\s?(?:{LET})(?:\s?(?:{LET}))?)"
+NOTLETTER = rf"(?![A-Za-z{DEV}{GUJ}])"
+
+
+def _suffix(s):
+    s = s.replace("-", "").replace(" ", "")
+    if re.fullmatch(r"[A-Za-z]+", s):
+        return s.upper()
+    out, i = "", 0
+    while i < len(s):
+        for tok in LET_SORTED:
+            if s.startswith(tok, i):
+                out += LMAP[tok]; i += len(tok); break
+        else:
+            i += 1
+    return out
+
+
+def split_sentences(text):
+    """Split on '।' and on '.!?' + space, but not after short abbreviations ('आय. पी. सी.', 'S. 7')."""
+    out, start = [], 0
+    for m in re.finditer(r"[।.!?]+\s+", text):
+        word = re.search(r"(\S+)$", text[start:m.start()])
+        w = re.sub(r"[.\d()\-]", "", word.group(1)) if word else ""
+        if text[m.start()] in "।!?" or len(w) >= 3:
+            out.append(text[start:m.end()].strip()); start = m.end()
+    out.append(text[start:].strip())
+    return [s for s in out if s]
+
 
 CODES = [
     ("IPC", rf"भारतीय\s+दंड\s*(?:संहित|विधान){W}|ભારતીય\s+દંડ\s+સંહિત{W}|"
-            rf"आईपीसी|आई\.?\s?पी\.?\s?सी\.?|આઈપીસી|(?<![A-Za-z])I\.?\s?P\.?\s?C\.?(?![A-Za-z])"),
+            rf"आ[यई]\.?\s?पी\.?\s?सी\.?|આ[ઇઈ]\.?\s?પી\.?\s?સી\.?|(?<![A-Za-z])I\.?\s?P\.?\s?C\.?(?![A-Za-z])"),
     ("CRPC", rf"(?:फौजदारी|दंड)\s+प्रक्रिया\s+संहित{W}|ફોજદારી\s+(?:કાર્યવાહી|પ્રક્રિયા)\s+સંહિત{W}|"
              rf"सीआरपीसी|सी\.?\s?आर\.?\s?पी\.?\s?सी\.?|સીઆરપીસી|(?<![A-Za-z])Cr\.?\s?P\.?\s?C\.?(?![A-Za-z])"),
     ("CPC", rf"(?:सिविल|दिवाणी|दीवानी)\s+प्रक्रिया\s+संहित{W}|(?:સિવિલ|દીવાની)\s+(?:પ્રક્રિયા|કાર્યવાહી)\s+સંહિત{W}|"
@@ -29,35 +63,32 @@ CODES = [
     ("CONST", rf"संविधान{W}|राज्यघटन{W}|બંધારણ{W}"),
 ]
 CODE_RX = [(c, re.compile(r)) for c, r in CODES]
-# "Constitution of India" -> ACT:CONST even when no article/section number is attached
 CONST_INDIA = re.compile(rf"(?:भारत{W}|भारतीय)\s+(?:का\s+|की\s+|चे\s+|च्या\s+)?(?:संविधान|राज्यघटन){W}|ભારત{W}\s+બંધારણ{W}")
 
-# keyword that marks "some named Act"; its YEAR is the anchor
 ACTWORD = re.compile(rf"अधिनियम{W}|कायद{W}|कायद्य{W}|[अएऍॲ]ॅ?क्ट|[એઍ]ક્ટ|અધિનિયમ{W}|કાયદ{W}")
 YEAR_AFTER = re.compile(r"[\s,]*(?:\([^)]{0,40}\)\s*)?(?:ऑफ|ओफ|ઓફ|of)?\s*(1[89]\d\d|20\d\d)(?!\d)")
-# year BEFORE the keyword only counts when followed by a genitive particle: "1952 का ... अधिनियम"
 YEAR_BEFORE = re.compile(rf"(?<!\d)(1[89]\d\d|20\d\d)\s*(?:का|की|के|चा|ची|चे|च्या|ના|ની|નો|નું|નાં)(?![{DEV}{GUJ}])")
 
-MARK = rf"(?:धारा{W}|कलम{W}|કલમ{W}|अनुच्छेद{W}|[Ss]ections?|[Aa]rticles?|(?<![A-Za-z])ss?\.)"
-ONE = rf"\d+(?:-?{SUF}(?![A-Za-z{DEV}{GUJ}]))?(?:\s*\([^)]{{0,12}}\))*"
-SEP = r"\s*(?:,|और|तथा|एवं|व|या|आणि|किंवा|ते|से|અને|તથા|અથવા|થી|and|or|to|&)\s*"
+MARK = rf"(?:धारा{W}|कलम{W}|કલમ{W}|अनुच्छेद{W}|[Ss]ections?|[Aa]rticles?|(?<![A-Za-z])[Ss]s?\.)"
+ONE = rf"\d+(?:{SUFRX}{NOTLETTER})?(?:\s*\([^)]{{0,12}}\))*"
+SEP = r"\s*(?:,|और|तथा|एवं|व|या|अथवा|आणि|किंवा|ते|से|અને|તથા|અથવા|કે|થી|and|or|to|&)\s*"
 SECSPAN = re.compile(rf"({MARK})\s*({ONE}(?:{SEP}(?:{MARK}\s*)?{ONE})*)")
 
 
 def _nums(span):
     span = re.sub(r"\([^)]*\)", " ", span)
     out = []
-    for n, suf in re.findall(rf"(\d+)(?:-?({SUF}))?(?![A-Za-z{DEV}{GUJ}])", span):
-        if re.fullmatch(r"\d{4}", n) and 1800 <= int(n) <= 2100:
+    for n, suf in re.findall(rf"(\d+)({SUFRX})?{NOTLETTER}", span):
+        if not suf and re.fullmatch(r"\d{4}", n) and 1800 <= int(n) <= 2100:
             continue                               # a year, not a section
-        out.append(n + LETMAP.get(suf, suf.upper()))
+        out.append(n + (_suffix(suf) if suf else ""))
     return out
 
 
 def extract_anchors_indic(text):
     text = (text or "").translate(DIG)
     acts, secs, pending = set(), set(), []
-    for sent in SENT_I.split(text):
+    for sent in split_sentences(text):
         mentions = []                              # (start, end, canonical id)
         for c, rx in CODE_RX:
             mentions += [(m.start(), m.end(), c) for m in rx.finditer(sent)]
@@ -90,7 +121,6 @@ def extract_anchors_indic(text):
             else:
                 pending.append(nums)
         acts.update(f"ACT:{c}" for _, _, c in mentions if c != "CONST")
-    real_acts = {a for a in acts if a != "ACT:CONST"}
     weak = set()
     if len(acts) == 1 and pending:                 # orphan sections: attach only if the case names one act
         a = next(iter(acts))[4:]
