@@ -3,4 +3,3 @@ data/interim/
 data/processed/corpus_en.jsonl
 __pycache__/
 .ipynb_checkpoints/
-data/processed/anchors_corpus_en.jsonl
