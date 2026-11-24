@@ -25,6 +25,8 @@ LET_SORTED = sorted(LMAP, key=len, reverse=True)
 LET = "|".join(LET_SORTED)
 SUFRX = rf"(?:-?[A-Za-z]{{1,2}}|-?\s?(?:{LET})(?:\s?(?:{LET}))?)"
 NOTLETTER = rf"(?![A-Za-z{DEV}{GUJ}])"
+# a suffix must not be the start of a dotted abbreviation: "324 आई. पी. सी." (IPC) is NOT 324I, "439 सी. आर. पी. सी." is NOT 439C
+NOABBR = rf"(?!\.\s?(?:{LET}|[A-Za-z])(?:\.|\s|$))"
 
 
 def _suffix(s):
@@ -70,7 +72,7 @@ YEAR_AFTER = re.compile(r"[\s,]*(?:\([^)]{0,40}\)\s*)?(?:ऑफ|ओफ|ઓફ|of
 YEAR_BEFORE = re.compile(rf"(?<!\d)(1[89]\d\d|20\d\d)\s*(?:का|की|के|चा|ची|चे|च्या|ના|ની|નો|નું|નાં)(?![{DEV}{GUJ}])")
 
 MARK = rf"(?:धारा{W}|कलम{W}|કલમ{W}|अनुच्छेद{W}|[Ss]ections?|[Aa]rticles?|(?<![A-Za-z])[Ss]s?\.)"
-ONE = rf"\d+(?:{SUFRX}{NOTLETTER})?(?:\s*\([^)]{{0,12}}\))*"
+ONE = rf"\d+(?:{SUFRX}{NOTLETTER}{NOABBR})?(?:\s*\([^)]{{0,12}}\))*"
 SEP = r"\s*(?:,|और|तथा|एवं|व|या|अथवा|आणि|किंवा|ते|से|અને|તથા|અથવા|કે|થી|and|or|to|&)\s*"
 SECSPAN = re.compile(rf"({MARK})\s*({ONE}(?:{SEP}(?:{MARK}\s*)?{ONE})*)")
 
@@ -78,7 +80,7 @@ SECSPAN = re.compile(rf"({MARK})\s*({ONE}(?:{SEP}(?:{MARK}\s*)?{ONE})*)")
 def _nums(span):
     span = re.sub(r"\([^)]*\)", " ", span)
     out = []
-    for n, suf in re.findall(rf"(\d+)({SUFRX})?{NOTLETTER}", span):
+    for n, suf in re.findall(rf"(\d+)(?:({SUFRX}){NOTLETTER}{NOABBR})?", span):
         if not suf and re.fullmatch(r"\d{4}", n) and 1800 <= int(n) <= 2100:
             continue                               # a year, not a section
         out.append(n + (_suffix(suf) if suf else ""))
@@ -94,11 +96,17 @@ def extract_anchors_indic(text):
             mentions += [(m.start(), m.end(), c) for m in rx.finditer(sent)]
         if CONST_INDIA.search(sent):
             acts.add("ACT:CONST")
+        ysent = sent                               # a year right after a code name ("संहिता, 1973") belongs to the code,
+        for _, e, _c in mentions:                  # not to a later generic word for "Act"/"law"
+            ym = re.match(r"[\s,]*(1[89]\d\d|20\d\d)", ysent[e:])
+            if ym:
+                a0 = e + ym.start(1)
+                ysent = ysent[:a0] + "####" + ysent[a0 + 4:]
         for m in ACTWORD.finditer(sent):
-            a = YEAR_AFTER.match(sent, m.end())
+            a = YEAR_AFTER.match(ysent, m.end())
             year = a.group(1) if a else None
             if not year:
-                ys = YEAR_BEFORE.findall(sent[max(0, m.start() - 70):m.start()])
+                ys = YEAR_BEFORE.findall(ysent[max(0, m.start() - 70):m.start()])
                 year = ys[-1] if ys else None
             if year:
                 mentions.append((m.start(), m.end(), f"Y{year}"))
@@ -133,7 +141,7 @@ def extract_anchors_indic(text):
             "all": sorted(acts | secs), "n_unattributed": len(pending) if len(acts) != 1 else 0}
 
 
-_Y = re.compile(r"^(ACT|SEC):.*_ACT_(\d{4})(?::(.+))?$")
+_Y = re.compile(r"^(ACT|SEC):(?:.*_)?ACT_(\d{4})(?::(.+))?$")      # also matches the bare slug ACT_2013
 
 
 def to_invariant(anchor):

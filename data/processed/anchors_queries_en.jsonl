@@ -1,360 +1,360 @@
-{"document_id":"2001_713","split":"test","anc":["ACT:CUSTOMS_ACT_1962","SEC:CUSTOMS_ACT_1962:28"]}
-{"document_id":"1964_98","split":"test","anc":["ACT:IPC","SEC:IPC:415","SEC:IPC:419"]}
-{"document_id":"1977_209","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:396"]}
-{"document_id":"1972_139","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:18","SEC:LAND_ACQUISITION_ACT_1894:5"]}
-{"document_id":"2003_894","split":"test","anc":["ACT:FINANCIAL_CORPORATIONS_ACT_1959"]}
-{"document_id":"2018_377","split":"test","anc":[]}
-{"document_id":"2003_757","split":"test","anc":["ACT:BACKWARD_CLASSES_ACT_1994","ACT:CONST","SEC:CONST:226","SEC:CONST:342"]}
-{"document_id":"2020_51","split":"test","anc":["ACT:CRPC","ACT:DOWRY_PROHIBITION_ACT_1961","ACT:IPC","SEC:DOWRY_PROHIBITION_ACT_1961:3","SEC:DOWRY_PROHIBITION_ACT_1961:4","SEC:IPC:3","SEC:IPC:4","SEC:IPC:406","SEC:IPC:420","SEC:IPC:498A"]}
-{"document_id":"1997_1332","split":"test","anc":["ACT:BIHAR_EXCISE_ACT_1915","SEC:BIHAR_EXCISE_ACT_1915:22","SEC:BIHAR_EXCISE_ACT_1915:29","SEC:BIHAR_EXCISE_ACT_1915:43"]}
-{"document_id":"1994_591","split":"test","anc":[]}
-{"document_id":"1998_267","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:302IP"]}
-{"document_id":"1992_166","split":"test","anc":["ACT:IPC","SEC:IPC:415","SEC:IPC:420"]}
-{"document_id":"2023_138","split":"test","anc":["ACT:CONST"]}
-{"document_id":"1971_125","split":"test","anc":["ACT:ANDHRA_UNIVERSITY_ACT_1926","ACT:CONST"]}
-{"document_id":"1969_175","split":"test","anc":["ACT:CONST","ACT:REGULATION_ADMINISTRATION_ACT_1960","SEC:CONST:30"]}
-{"document_id":"1969_485","split":"test","anc":["ACT:CONTROL_ACT_ACT_1959","SEC:CONTROL_ACT_ACT_1959:11"]}
-{"document_id":"1995_873","split":"test","anc":["ACT:AGRICULTURAL_HOLDINGS_ACT_1973"]}
-{"document_id":"2010_1189","split":"test","anc":["ACT:MERCHANDISE_MARKS_ACT_1958","ACT:TRADE_MARKS_ACT_1999","SEC:MERCHANDISE_MARKS_ACT_1958:46","SEC:MERCHANDISE_MARKS_ACT_1958:56"]}
-{"document_id":"1976_137","split":"test","anc":["ACT:MOTOR_VEHICLES_ACT_1961","SEC:MOTOR_VEHICLES_ACT_1961:4"]}
-{"document_id":"1980_183","split":"test","anc":["ACT:PRADESH_EXCISE_ACT_1968"]}
-{"document_id":"2005_461","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:302RE","SEC:IPC:324IP"]}
-{"document_id":"2006_133","split":"test","anc":["ACT:RENT_EVICTION_ACT_1973"]}
-{"document_id":"1971_80","split":"test","anc":["ACT:REGULATION_DEVELOPMENT_ACT_1957","SEC:REGULATION_DEVELOPMENT_ACT_1957:11"]}
-{"document_id":"1974_222","split":"test","anc":["ACT:INDIAN_EVIDENCE_ACT_1872","ACT:INDIAN_SUCCESSION_ACT_1925"]}
-{"document_id":"2023_729","split":"test","anc":["ACT:CITIZENSHIP_ACT_1955","ACT:FOREIGNERS_ACT_1946"]}
-{"document_id":"2007_338","split":"test","anc":[]}
-{"document_id":"2024_130","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"1988_40","split":"test","anc":["ACT:RELIGIOUS_SOCIETIES_ACT_1880"]}
-{"document_id":"2022_1148","split":"test","anc":["ACT:CPC","ACT:OPERATIVE_SOCIETIES_ACT_1961"]}
-{"document_id":"2009_1262","split":"test","anc":["ACT:PREVENTION_ACT_1987","SEC:PREVENTION_ACT_1987:15"]}
-{"document_id":"1995_1274","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:11","SEC:LAND_ACQUISITION_ACT_1894:4","SEC:LAND_ACQUISITION_ACT_1894:6"]}
-{"document_id":"2003_603","split":"test","anc":["ACT:MOTOR_VEHICLES_ACT_1988"]}
-{"document_id":"2007_673","split":"test","anc":["ACT:MOTOR_VEHICLES_ACT_1988","SEC:MOTOR_VEHICLES_ACT_1988:140","SEC:MOTOR_VEHICLES_ACT_1988:166"]}
-{"document_id":"1965_96","split":"test","anc":["ACT:PUNJAB_TENANCY_ACT_1887"]}
-{"document_id":"1994_846","split":"test","anc":[]}
-{"document_id":"2004_986","split":"test","anc":["ACT:CRPC","ACT:IPC"]}
-{"document_id":"2004_67","split":"test","anc":["ACT:ADMINISTRATIVE_TRIBUNALS_ACT_1985","ACT:CRPC","SEC:ADMINISTRATIVE_TRIBUNALS_ACT_1985:15","SEC:CRPC:25"]}
-{"document_id":"1983_165","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"1979_440","split":"test","anc":["ACT:RELIGIOUS_TRUST_ACT_1951"]}
-{"document_id":"2003_715","split":"test","anc":["ACT:CRPC","ACT:PREVENTION_CORRUPTION_ACT_1988"]}
-{"document_id":"2022_37","split":"test","anc":["ACT:PSYCHOTROPIC_SUBSTANCES_ACT_1994","ACT:REPATRIATION_PRISONERS_ACT_2003"]}
-{"document_id":"2022_1224","split":"test","anc":["ACT:ACT_2013","ACT:REHABILITATION_RESETTLEMENT_ACT_2013","SEC:ACT_2013:24","SEC:REHABILITATION_RESETTLEMENT_ACT_2013:24"]}
-{"document_id":"1974_221","split":"test","anc":["ACT:PUBLIC_HEALTH_ACT_1939","ACT:TOWN_PLANNING_ACT_1920"]}
-{"document_id":"1972_412","split":"test","anc":[]}
-{"document_id":"2005_231","split":"test","anc":["ACT:MUNICIPAL_CORPORATION_ACT_1980"]}
-{"document_id":"1994_1160","split":"test","anc":["ACT:EXCISES_SALT_ACT_1944","ACT:EXCISE_TARIFF_ACT_1985"]}
-{"document_id":"2007_963","split":"test","anc":["ACT:INDIAN_COMPANIES_ACT_1956","ACT:INDIAN_EVIDENCE_ACT_1872"]}
-{"document_id":"2009_1855","split":"test","anc":["ACT:CONSUMER_PROTECTION_ACT_1986"]}
-{"document_id":"1962_334","split":"test","anc":[]}
-{"document_id":"1999_891","split":"test","anc":["ACT:CONST","ACT:CONTROL_POLLUTION_ACT_1974","SEC:CONST:252"]}
-{"document_id":"1961_325","split":"test","anc":["ACT:CRPC","ACT:IPC"]}
-{"document_id":"1961_60","split":"test","anc":["ACT:MADRAS_AMENDMENT_ACT_1949","ACT:SHARIAT_APPLICATION_ACT_1937"]}
-{"document_id":"1998_834","split":"test","anc":["ACT:ADMINISTRATIVE_TRIBUNALS_ACT_1985"]}
-{"document_id":"1961_256","split":"test","anc":["ACT:EVACUEE_PROPERTY_ACT_1950"]}
-{"document_id":"2003_251","split":"test","anc":["ACT:LAND_REFORMS_ACT_1950"]}
-{"document_id":"1968_130","split":"test","anc":["ACT:CONST","ACT:CONTEMPT_COURTS_ACT_1952","SEC:CONST:227","SEC:CONTEMPT_COURTS_ACT_1952:4","SEC:CONTEMPT_COURTS_ACT_1952:5"]}
-{"document_id":"1978_360","split":"test","anc":["ACT:APPELLATE_JURISDICTION_ACT_1970","ACT:IPC"]}
-{"document_id":"1969_428","split":"test","anc":["ACT:FOOD_ADULTERATION_ACT_1954"]}
-{"document_id":"2018_465","split":"test","anc":["ACT:MEDICAL_COUNCIL_ACT_1956","SEC:MEDICAL_COUNCIL_ACT_1956:10A","SEC:MEDICAL_COUNCIL_ACT_1956:11"]}
-{"document_id":"2023_979","split":"test","anc":["ACT:LOK_AYUKTA_ACT_1999","ACT:SURVEY_BOUNDARIES_ACT_1961"]}
-{"document_id":"2004_683","split":"test","anc":["ACT:CPC","ACT:INDIAN_EVIDENCE_ACT_1872","ACT:IPC"]}
-{"document_id":"1988_484","split":"test","anc":["ACT:RENT_EVICTION_ACT_1972"]}
-{"document_id":"1987_418","split":"test","anc":[]}
-{"document_id":"2000_894","split":"test","anc":["ACT:COMPENSATION_REHABILITATION_ACT_1954"]}
-{"document_id":"1984_352","split":"test","anc":["ACT:FOOD_ADULTERATION_ACT_1954","SEC:FOOD_ADULTERATION_ACT_1954:16","SEC:FOOD_ADULTERATION_ACT_1954:7"]}
-{"document_id":"2003_796","split":"test","anc":["ACT:POLICE_FORCE_ACT_1959"]}
-{"document_id":"1991_184","split":"test","anc":["ACT:CONST","SEC:CONST:286"]}
-{"document_id":"1996_2232","split":"test","anc":["ACT:MINES_ACT_1952","SEC:MINES_ACT_1952:2","SEC:MINES_ACT_1952:3"]}
-{"document_id":"1989_231","split":"test","anc":["ACT:CPC","ACT:SPECIFIC_RELIEF_ACT_1963"]}
-{"document_id":"1970_264","split":"test","anc":["ACT:CPC","SEC:CPC:75","SEC:CPC:77"]}
-{"document_id":"1984_60","split":"test","anc":["ACT:PEOPLE_ACT_1951"]}
-{"document_id":"2007_986","split":"test","anc":["ACT:IPC","SEC:IPC:201","SEC:IPC:302"]}
-{"document_id":"1957_84","split":"test","anc":[]}
-{"document_id":"2008_2769","split":"test","anc":["ACT:CRPC","SEC:CRPC:397","SEC:CRPC:482"]}
-{"document_id":"2007_612","split":"test","anc":[]}
-{"document_id":"1998_262","split":"test","anc":["ACT:IPC","SEC:IPC:302IP"]}
-{"document_id":"2020_317","split":"test","anc":["ACT:CONST"]}
-{"document_id":"1969_215","split":"test","anc":["ACT:PREVENTION_CORRUPTION_ACT_1947","SEC:PREVENTION_CORRUPTION_ACT_1947:5"]}
-{"document_id":"1991_539","split":"test","anc":["ACT:ABOLITION_ACT_1975","ACT:HINDU_SUCCESSION_ACT_1956"]}
-{"document_id":"1985_9","split":"test","anc":["ACT:INDIAN_SUCCESSION_ACT_1925"]}
-{"document_id":"1994_1073","split":"test","anc":["ACT:ARMS_ACT_1959","SEC:ARMS_ACT_1959:5"]}
-{"document_id":"1977_45","split":"test","anc":["ACT:TRADE_PRACTICES_ACT_1969"]}
-{"document_id":"1961_374","split":"test","anc":["ACT:MADHYA_PRADESH_ACT_1956","SEC:MADHYA_PRADESH_ACT_1956:3"]}
-{"document_id":"2010_862","split":"test","anc":["ACT:INSURANCE_ACT_1938","ACT:MOTOR_VEHICLES_ACT_1988"]}
-{"document_id":"2002_165","split":"test","anc":["ACT:IPC","SEC:IPC:149","SEC:IPC:302"]}
-{"document_id":"1997_401","split":"test","anc":["ACT:ESTATE_DUTY_ACT_1953","SEC:ESTATE_DUTY_ACT_1953:48OF"]}
-{"document_id":"2017_432","split":"test","anc":["ACT:CAPITATION_FEE_ACT_1987"]}
-{"document_id":"1996_1751","split":"test","anc":["ACT:LAND_HOLDINGS_ACT_1960","ACT:TRANSFER_PROPERTY_ACT_1882","SEC:LAND_HOLDINGS_ACT_1960:53"]}
-{"document_id":"1991_199","split":"test","anc":[]}
-{"document_id":"1994_4","split":"test","anc":["ACT:PUNJAB_REORGANISATION_ACT_1966"]}
-{"document_id":"2002_499","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"1987_576","split":"test","anc":["ACT:INCOME_TAX_ACT_1961","SEC:INCOME_TAX_ACT_1961:24"]}
-{"document_id":"1998_1125","split":"test","anc":["ACT:CRPC","ACT:IPC","ACT:PREVENTION_CORRUPTION_ACT_1947","SEC:CRPC:379","SEC:IPC:148","SEC:IPC:302","SEC:IPC:307","SEC:IPC:449","SEC:PREVENTION_CORRUPTION_ACT_1947:3"]}
-{"document_id":"1973_18","split":"test","anc":["ACT:CRPC","ACT:IPC"]}
-{"document_id":"2006_1107","split":"test","anc":["ACT:CRPC","ACT:IPC","SEC:IPC:224"]}
-{"document_id":"1986_108","split":"test","anc":["ACT:CONTROL_ACT_1947","ACT:CRPC","ACT:CUSTOMS_ACT_1962","SEC:CONTROL_ACT_1947:5","SEC:CRPC:482"]}
-{"document_id":"2006_782","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:34"]}
-{"document_id":"1971_156","split":"test","anc":["ACT:CRPC","ACT:IPC","SEC:CRPC:549"]}
-{"document_id":"1998_162","split":"test","anc":["ACT:LABOUR_PRACTICES_ACT_1971","SEC:LABOUR_PRACTICES_ACT_1971:2","SEC:LABOUR_PRACTICES_ACT_1971:26"]}
-{"document_id":"1971_2","split":"test","anc":["ACT:LAND_REFORMS_ACT_1950","SEC:LAND_REFORMS_ACT_1950:30","SEC:LAND_REFORMS_ACT_1950:4"]}
-{"document_id":"2003_600","split":"test","anc":["ACT:MOTOR_VEHICLES_ACT_1988"]}
-{"document_id":"2006_1167","split":"test","anc":["ACT:TRANSFER_PROPERTY_ACT_1882","SEC:TRANSFER_PROPERTY_ACT_1882:52"]}
-{"document_id":"1996_547","split":"test","anc":["ACT:INDIAN_EASEMENTS_ACT_1882"]}
-{"document_id":"2008_1984","split":"test","anc":[]}
-{"document_id":"1998_868","split":"test","anc":[]}
-{"document_id":"1993_527","split":"test","anc":["ACT:IPC","ACT:PRESIDENTIAL_ELECTIONS_ACT_1952"]}
-{"document_id":"1971_578","split":"test","anc":["ACT:FINANCE_ACT_1963","ACT:FINANCE_ACT_1964","ACT:INCOME_TAX_ACT_1961"]}
-{"document_id":"1967_144","split":"test","anc":["ACT:INDIA_SERVICE_ACT_1951"]}
-{"document_id":"1996_1822","split":"test","anc":["ACT:INDIAN_CONTRACT_ACT_1872","ACT:REGISTRATION_ACT_1908"]}
-{"document_id":"1987_268","split":"test","anc":["ACT:CONTEMPT_COURTS_ACT_1971"]}
-{"document_id":"2008_1597","split":"test","anc":["ACT:SALES_TAX_ACT_1956"]}
-{"document_id":"1968_163","split":"test","anc":[]}
-{"document_id":"1991_416","split":"test","anc":["ACT:CONST","ACT:INDIAN_RAILWAYS_ACT_1890","SEC:CONST:226","SEC:CONST:285","SEC:INDIAN_RAILWAYS_ACT_1890:135"]}
-{"document_id":"2018_296","split":"test","anc":["ACT:IPC","ACT:PREVENTION_ATROCITIES_ACT_1989","SEC:IPC:148","SEC:IPC:302"]}
-{"document_id":"1969_431","split":"test","anc":["ACT:IPC"]}
-{"document_id":"2017_512","split":"test","anc":["ACT:INCOME_TAX_ACT_1961","ACT:PUBLIC_TRUSTS_ACT_1950","ACT:SOCIETIES_REGISTRATION_ACT_1860","SEC:INCOME_TAX_ACT_1961:153C"]}
-{"document_id":"2007_668","split":"test","anc":["ACT:INDIAN_SUCCESSION_ACT_1925"]}
-{"document_id":"1989_74","split":"test","anc":["ACT:CONST","ACT:INCOME_TAX_ACT_1961"]}
-{"document_id":"1972_567","split":"test","anc":["ACT:SALES_TAX_ACT_1959"]}
-{"document_id":"2023_615","split":"test","anc":["ACT:CANTONMENTS_ACT_2006"]}
-{"document_id":"1954_84","split":"test","anc":["ACT:IPC","SEC:IPC:161"]}
-{"document_id":"1995_789","split":"test","anc":[]}
-{"document_id":"2000_783","split":"test","anc":["ACT:LAND_REFORMS_ACT_1961","SEC:LAND_REFORMS_ACT_1961:14","SEC:LAND_REFORMS_ACT_1961:44"]}
-{"document_id":"2000_33","split":"test","anc":["ACT:ENTRY_GOODS_ACT_1979"]}
-{"document_id":"1977_240","split":"test","anc":["ACT:CRPC","SEC:CRPC:226","SEC:CRPC:227"]}
-{"document_id":"1976_313","split":"test","anc":["ACT:IPC"]}
-{"document_id":"1961_292","split":"test","anc":["ACT:INCOME_TAX_ACT_1922","SEC:INCOME_TAX_ACT_1922:16","SEC:INCOME_TAX_ACT_1922:2"]}
-{"document_id":"1999_617","split":"test","anc":["ACT:RENT_CONTROL_ACT_1960"]}
-{"document_id":"2022_615","split":"test","anc":["ACT:MOTOR_VEHICLES_ACT_1988"]}
-{"document_id":"2002_486","split":"test","anc":["ACT:CONST","SEC:CONST:14"]}
-{"document_id":"2019_514","split":"test","anc":["ACT:CPC","ACT:HINDU_SUCCESSION_ACT_1956"]}
-{"document_id":"2006_85","split":"test","anc":[]}
-{"document_id":"1990_346","split":"test","anc":["ACT:IPC","ACT:PREVENTION_ACT_1987","SEC:PREVENTION_ACT_1987:3"]}
-{"document_id":"1995_1282","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:17","SEC:LAND_ACQUISITION_ACT_1894:4","SEC:LAND_ACQUISITION_ACT_1894:5"]}
-{"document_id":"2005_233","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"1994_346","split":"test","anc":[]}
-{"document_id":"1956_79","split":"test","anc":[]}
-{"document_id":"2009_1497","split":"test","anc":["ACT:INCOME_TAX_ACT_1961"]}
-{"document_id":"1968_340","split":"test","anc":["ACT:EXCHANGE_REGULATION_ACT_1947","SEC:EXCHANGE_REGULATION_ACT_1947:12","SEC:EXCHANGE_REGULATION_ACT_1947:22","SEC:EXCHANGE_REGULATION_ACT_1947:23"]}
-{"document_id":"1987_131","split":"test","anc":["ACT:STATE_INSURANCE_ACT_1948","SEC:STATE_INSURANCE_ACT_1948:75"]}
-{"document_id":"1965_333","split":"test","anc":["ACT:FOOD_ADULTERATION_ACT_1954","SEC:FOOD_ADULTERATION_ACT_1954:7"]}
-{"document_id":"2007_807","split":"test","anc":["ACT:HEALTH_SCIENCES_ACT_1998","ACT:MEDICAL_COUNCIL_ACT_1956"]}
-{"document_id":"2001_311","split":"test","anc":["ACT:INDIAN_STAMP_ACT_1899","ACT:PRADESH_STAMP_ACT_1999"]}
-{"document_id":"1988_220","split":"test","anc":["ACT:TRANSFER_PROPERTY_ACT_1882"]}
-{"document_id":"1976_218","split":"test","anc":[]}
-{"document_id":"1971_112","split":"test","anc":["ACT:CONST","ACT:DEFENCE_INDIA_ACT_1939","ACT:LIMITATION_ACT_1908","SEC:CONST:144"]}
-{"document_id":"1996_404","split":"test","anc":["ACT:ADMINISTRATIVE_TRIBUNAL_ACT_1986"]}
-{"document_id":"1953_124","split":"test","anc":[]}
-{"document_id":"1987_114","split":"test","anc":["ACT:SMUGGLING_ACTIVITIES_ACT_1974"]}
-{"document_id":"1994_987","split":"test","anc":["ACT:EXCISES_SALT_ACT_1944"]}
-{"document_id":"2003_1113","split":"test","anc":["ACT:CENTRAL_EXCISE_ACT_1944","ACT:EXCISE_TARIFF_ACT_1985"]}
-{"document_id":"2005_659","split":"test","anc":["ACT:IPC","SEC:IPC:323","SEC:IPC:324","SEC:IPC:341"]}
-{"document_id":"1971_47","split":"test","anc":[]}
-{"document_id":"1962_171","split":"test","anc":["ACT:CITIZENSHIP_ACT_1955","SEC:CITIZENSHIP_ACT_1955:9"]}
-{"document_id":"2004_33","split":"test","anc":["ACT:CONST","SEC:CONST:311"]}
-{"document_id":"1996_905","split":"test","anc":[]}
-{"document_id":"1997_858","split":"test","anc":["ACT:SALES_TAX_ACT_1941","SEC:SALES_TAX_ACT_1941:10A"]}
-{"document_id":"2000_771","split":"test","anc":["ACT:AGRA_TENANCY_ACT_1926","ACT:PROVINCE_TENANCY_ACT_1901","ACT:TENANCY_ACT_1939"]}
-{"document_id":"2003_1348","split":"test","anc":["ACT:IPC","SEC:IPC:201","SEC:IPC:302","SEC:IPC:34"]}
-{"document_id":"2000_1157","split":"test","anc":["ACT:SALES_TAX_ACT_1956","ACT:SALES_TAX_ACT_1973","SEC:SALES_TAX_ACT_1973:39"]}
-{"document_id":"1987_600","split":"test","anc":["ACT:CRPC","ACT:IPC","SEC:CRPC:195","SEC:CRPC:468","SEC:IPC:120B","SEC:IPC:420","SEC:IPC:465","SEC:IPC:468","SEC:IPC:471","SEC:IPC:474"]}
-{"document_id":"1995_1047","split":"test","anc":["ACT:RENT_RESTRICTION_ACT_1949","SEC:RENT_RESTRICTION_ACT_1949:13"]}
-{"document_id":"2009_588","split":"test","anc":["ACT:SALES_TAX_ACT_1973","SEC:SALES_TAX_ACT_1973:13B"]}
-{"document_id":"1976_112","split":"test","anc":["ACT:PROVIDENT_FUNDS_ACT_1925","SEC:PROVIDENT_FUNDS_ACT_1925:3","SEC:PROVIDENT_FUNDS_ACT_1925:4","SEC:PROVIDENT_FUNDS_ACT_1925:60"]}
-{"document_id":"1971_552","split":"test","anc":["ACT:ARBITRATION_ACT_1940"]}
-{"document_id":"1979_394","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:18"]}
-{"document_id":"1962_188","split":"test","anc":["ACT:AMENDMENT_ACT_1957","ACT:INDIAN_RAILWAYS_ACT_1890","SEC:AMENDMENT_ACT_1957:34"]}
-{"document_id":"2022_588","split":"test","anc":["ACT:SCHEDULED_TRIBES_ACT_1974"]}
-{"document_id":"1974_153","split":"test","anc":["ACT:CONST","SEC:CONST:226","SEC:CONST:227"]}
-{"document_id":"2019_282","split":"test","anc":["ACT:AREA_DEVELOPMENT_ACT_1966","ACT:COUNTRY_PLANNING_ACT_1961","ACT:GREEN_TRIBUNAL_ACT_2010","ACT:MUNICIPAL_CORPORATIONS_ACT_1976"]}
-{"document_id":"2001_401","split":"test","anc":["ACT:INDIAN_EASEMENTS_ACT_1882"]}
-{"document_id":"2007_876","split":"test","anc":["ACT:LAND_REFORMS_ACT_1961"]}
-{"document_id":"2019_176","split":"test","anc":["ACT:PREVENTION_ACT_1967"]}
-{"document_id":"1994_584","split":"test","anc":[]}
-{"document_id":"1995_104","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:4"]}
-{"document_id":"1992_659","split":"test","anc":[]}
-{"document_id":"2001_521","split":"test","anc":["ACT:ARBITRATION_CONCILIATION_ACT_1996"]}
-{"document_id":"2009_478","split":"test","anc":["ACT:SALES_TAX_ACT_1956"]}
-{"document_id":"2007_1368","split":"test","anc":["ACT:MOTOR_VEHICLES_ACT_1988","SEC:MOTOR_VEHICLES_ACT_1988:140"]}
-{"document_id":"2007_299","split":"test","anc":["ACT:CRPC","ACT:IPC","SEC:IPC:406","SEC:IPC:420"]}
-{"document_id":"2008_262","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"1999_1028","split":"test","anc":["ACT:EMPLOYEES_INSURANCE_ACT_1948","ACT:INDIAN_COMPANIES_ACT_1956"]}
-{"document_id":"1997_379","split":"test","anc":[]}
-{"document_id":"1980_116","split":"test","anc":["ACT:RENT_CONTROL_ACT_1960","SEC:RENT_CONTROL_ACT_1960:10","SEC:RENT_CONTROL_ACT_1960:25"]}
-{"document_id":"1995_294","split":"test","anc":["ACT:INCOME_TAX_ACT_1961","ACT:SPECIAL_PROVISIONS_ACT_1985"]}
-{"document_id":"2008_1478","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"1998_661","split":"test","anc":["ACT:MUNICIPAL_CORPORATION_ACT_1888","ACT:MUNICIPAL_CORPORATION_ACT_1949"]}
-{"document_id":"2008_898","split":"test","anc":["ACT:CPC","ACT:INDIAN_CONTRACT_ACT_1872","ACT:INDIAN_EASEMENTS_ACT_1882","ACT:IPC","ACT:SPECIFIC_RELIEF_ACT_1963","ACT:TRANSFER_PROPERTY_ACT_1882"]}
-{"document_id":"2006_70","split":"test","anc":["ACT:CONST","ACT:TOWN_PLANNING_ACT_1966","SEC:CONST:37","SEC:TOWN_PLANNING_ACT_1966:37"]}
-{"document_id":"1979_343","split":"test","anc":["ACT:CHARITABLE_ENDOWMENTS_ACT_1951","ACT:CONST","ACT:STATES_REORGANISATION_ACT_1956","SEC:CONST:14"]}
-{"document_id":"1985_361","split":"test","anc":["ACT:PAYMENT_BONUS_ACT_1965","SEC:PAYMENT_BONUS_ACT_1965:32"]}
-{"document_id":"1967_47","split":"test","anc":["ACT:SALES_TAX_ACT_1958"]}
-{"document_id":"1964_133","split":"test","anc":["ACT:ESTATE_DUTY_ACT_1953","ACT:INCOME_TAX_ACT_1922","SEC:ESTATE_DUTY_ACT_1953:10","SEC:ESTATE_DUTY_ACT_1953:84"]}
-{"document_id":"2004_75","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:498"]}
-{"document_id":"2006_705","split":"test","anc":["ACT:CPC"]}
-{"document_id":"1971_541","split":"test","anc":["ACT:INCOME_TAX_ACT_1922","SEC:INCOME_TAX_ACT_1922:2"]}
-{"document_id":"1971_313","split":"test","anc":["ACT:IPC","SEC:IPC:324"]}
-{"document_id":"2003_1012","split":"test","anc":["ACT:MEDICAL_COUNCIL_ACT_1956","SEC:MEDICAL_COUNCIL_ACT_1956:10A","SEC:MEDICAL_COUNCIL_ACT_1956:10B"]}
-{"document_id":"1979_503","split":"test","anc":["ACT:CONST","ACT:PEOPLE_ACT_1951","SEC:CONST:173","SEC:PEOPLE_ACT_1951:100"]}
-{"document_id":"2008_2563","split":"test","anc":["ACT:DEFENCE_INDIA_ACT_1962","ACT:DEFENCE_INDIA_ACT_1971","ACT:IMMOVABLE_PROPERTY_ACT_1952","ACT:INTEREST_ACT_1839","ACT:INTEREST_ACT_1978","SEC:DEFENCE_INDIA_ACT_1962:29"]}
-{"document_id":"1963_197","split":"test","anc":["ACT:CONSOLIDATION_HOLDINGS_ACT_1953","SEC:CONSOLIDATION_HOLDINGS_ACT_1953:16A"]}
-{"document_id":"2006_1003","split":"test","anc":["ACT:COOPERATIVE_SOCIETIES_ACT_1961","ACT:INDUSTRIAL_DISPUTES_ACT_1947","SEC:INDUSTRIAL_DISPUTES_ACT_1947:2A"]}
-{"document_id":"1977_230","split":"test","anc":["ACT:COMPANIES_ACT_1956","ACT:INDIAN_PARTNERSHIP_ACT_1932"]}
-{"document_id":"2004_1116","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:304"]}
-{"document_id":"1972_507","split":"test","anc":["ACT:CRPC","ACT:IPC","ACT:MANAGEMENT_TRANSFER_ACT_1963","SEC:IPC:13","SEC:IPC:420"]}
-{"document_id":"1999_1074","split":"test","anc":["ACT:IPC"]}
-{"document_id":"1967_13","split":"test","anc":["ACT:CITIZENSHIP_ACT_1955"]}
-{"document_id":"1972_107","split":"test","anc":[]}
-{"document_id":"1960_97","split":"test","anc":["ACT:THEINDUSTRIAL_DISPUTES_ACT_1947"]}
-{"document_id":"1994_751","split":"test","anc":["ACT:IPC","SEC:IPC:302"]}
-{"document_id":"2008_1926","split":"test","anc":["ACT:IPC"]}
-{"document_id":"2009_1778","split":"test","anc":["ACT:LABOUR_PRACTICES_ACT_1971"]}
-{"document_id":"1986_294","split":"test","anc":["ACT:AGRICULTURAL_LANDS_ACT_1948"]}
-{"document_id":"1996_2074","split":"test","anc":["ACT:CONST","ACT:SALES_TAX_ACT_1962","SEC:CONST:301","SEC:CONST:304"]}
-{"document_id":"2008_1271","split":"test","anc":["ACT:SCIENCE_TECHNOLOGY_ACT_1976"]}
-{"document_id":"2009_2057","split":"test","anc":["ACT:CENTRAL_EXCISE_ACT_1944","ACT:EXCISE_TARIFF_ACT_1985"]}
-{"document_id":"1974_275","split":"test","anc":["ACT:INCOME_TAX_ACT_1922"]}
-{"document_id":"1976_299","split":"test","anc":["ACT:VILLAGE_PANCHAYAT_ACT_1933","SEC:VILLAGE_PANCHAYAT_ACT_1933:89"]}
-{"document_id":"1969_411","split":"test","anc":["ACT:ENCUMBERED_ESTATES_ACT_1934","ACT:LAND_REFORMS_ACT_1950"]}
-{"document_id":"1996_100","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:23","SEC:LAND_ACQUISITION_ACT_1894:4"]}
-{"document_id":"1970_78","split":"test","anc":[]}
-{"document_id":"1989_270","split":"test","anc":["ACT:BOMBAY_RENT_ACT_1947"]}
-{"document_id":"2015_581","split":"test","anc":[]}
-{"document_id":"2002_554","split":"test","anc":["ACT:CONST","SEC:CONST:309"]}
-{"document_id":"2007_1150","split":"test","anc":["ACT:ACT_1910","ACT:ELECTRICITY_ACT_1910","SEC:ELECTRICITY_ACT_1910:22"]}
-{"document_id":"1999_63","split":"test","anc":["ACT:GUJARAT_MUNICIPALITIES_ACT_1963","ACT:GUJARAT_PANCHAYAT_ACT_1961","ACT:INDUSTRIAL_DEVELOPMENT_ACT_1962","SEC:GUJARAT_MUNICIPALITIES_ACT_1963:16","SEC:GUJARAT_PANCHAYAT_ACT_1961:9","SEC:INDUSTRIAL_DEVELOPMENT_ACT_1962:16"]}
-{"document_id":"1964_25","split":"test","anc":["ACT:INDIAN_EVIDENCE_ACT_1872","SEC:INDIAN_EVIDENCE_ACT_1872:3","SEC:INDIAN_EVIDENCE_ACT_1872:30"]}
-{"document_id":"1995_111","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1984","ACT:TOWN_IMPROVEMENT_ACT_1922"]}
-{"document_id":"1976_234","split":"test","anc":["ACT:INCOME_TAX_ACT_1950","SEC:INCOME_TAX_ACT_1950:17","SEC:INCOME_TAX_ACT_1950:18","SEC:INCOME_TAX_ACT_1950:19","SEC:INCOME_TAX_ACT_1950:3","SEC:INCOME_TAX_ACT_1950:31","SEC:INCOME_TAX_ACT_1950:32","SEC:INCOME_TAX_ACT_1950:34","SEC:INCOME_TAX_ACT_1950:5"]}
-{"document_id":"2006_77","split":"test","anc":["ACT:COUNTRY_PLANNING_ACT_1961","ACT:DEVELOPMENT_AUTHORITY_ACT_1976"]}
-{"document_id":"1999_360","split":"test","anc":["ACT:EVICTION_CONTROL_ACT_1960","SEC:EVICTION_CONTROL_ACT_1960:10"]}
-{"document_id":"1979_172","split":"test","anc":["ACT:LIMITATION_ACT_1963","SEC:LIMITATION_ACT_1963:29"]}
-{"document_id":"2010_1179","split":"test","anc":[]}
-{"document_id":"1982_49","split":"test","anc":["ACT:INDUSTRIAL_DISPUTES_ACT_1947","SEC:INDUSTRIAL_DISPUTES_ACT_1947:25F"]}
-{"document_id":"1998_50","split":"test","anc":["ACT:FIRE_FORCE_ACT_1964"]}
-{"document_id":"1970_164","split":"test","anc":["ACT:INCOME_TAX_ACT_1922"]}
-{"document_id":"2022_63","split":"test","anc":[]}
-{"document_id":"2024_197","split":"test","anc":["ACT:CRPC","ACT:DAAIN_PRACTICES_ACT_1999","ACT:IPC","SEC:CRPC:82","SEC:IPC:3","SEC:IPC:323","SEC:IPC:341","SEC:IPC:354B","SEC:IPC:504"]}
-{"document_id":"1993_247","split":"test","anc":[]}
-{"document_id":"2006_538","split":"test","anc":["ACT:INDUSTRIAL_DISPUTES_ACT_1947"]}
-{"document_id":"1961_6","split":"test","anc":["ACT:INCOME_TAX_ACT_1922","SEC:INCOME_TAX_ACT_1922:16"]}
-{"document_id":"1965_19","split":"test","anc":["ACT:CPC"]}
-{"document_id":"1996_1527","split":"test","anc":["ACT:COOPERATIVE_SOCIETIES_ACT_1961","ACT:INDUSTRIAL_DISPUTES_ACT_1947","SEC:COOPERATIVE_SOCIETIES_ACT_1961:19","SEC:COOPERATIVE_SOCIETIES_ACT_1961:84","SEC:COOPERATIVE_SOCIETIES_ACT_1961:9A"]}
-{"document_id":"2008_1544","split":"test","anc":["ACT:ADOPTION_MAINTENANCE_ACT_1956","ACT:HINDU_SUCCESSION_ACT_1956"]}
-{"document_id":"2021_395","split":"test","anc":["ACT:IPC","SEC:IPC:147","SEC:IPC:149","SEC:IPC:201","SEC:IPC:218","SEC:IPC:302"]}
-{"document_id":"1994_857","split":"test","anc":["ACT:WEALTH_TAX_ACT_1957","SEC:WEALTH_TAX_ACT_1957:46"]}
-{"document_id":"1973_59","split":"test","anc":["ACT:ESTATE_DUTY_ACT_1953","SEC:ESTATE_DUTY_ACT_1953:10"]}
-{"document_id":"2004_207","split":"test","anc":["ACT:TRADING_LIMITED_ACT_1981"]}
-{"document_id":"2008_2527","split":"test","anc":["ACT:INDIAN_FOREST_ACT_1927","SEC:INDIAN_FOREST_ACT_1927:61"]}
-{"document_id":"2002_291","split":"test","anc":["ACT:TAKING_OVER_ACT_1977","SEC:TAKING_OVER_ACT_1977:3","SEC:TAKING_OVER_ACT_1977:6"]}
-{"document_id":"1972_373","split":"test","anc":["ACT:INTERNAL_SECURITY_ACT_1971"]}
-{"document_id":"2006_657","split":"test","anc":["ACT:IPC"]}
-{"document_id":"1998_614","split":"test","anc":["ACT:INTERMEDIATE_EDUCATION_ACT_1921","SEC:INTERMEDIATE_EDUCATION_ACT_1921:9"]}
-{"document_id":"1995_701","split":"test","anc":[]}
-{"document_id":"1979_301","split":"test","anc":[]}
-{"document_id":"2003_360","split":"test","anc":[]}
-{"document_id":"1994_1075","split":"test","anc":["ACT:FINANCIAL_CORPORATION_ACT_1951"]}
-{"document_id":"1976_174","split":"test","anc":[]}
-{"document_id":"2020_18","split":"test","anc":["ACT:HINDU_SUCCESSION_ACT_1956","ACT:MINORITY_GUARDIANSHIP_ACT_1956"]}
-{"document_id":"2003_49","split":"test","anc":["ACT:CPC"]}
-{"document_id":"2018_400","split":"test","anc":["ACT:CONST","SEC:CONST:234","SEC:CONST:309"]}
-{"document_id":"1967_301","split":"test","anc":["ACT:INCOME_TAX_ACT_1922","ACT:STATES_AMENDMENT_ACT_1949","SEC:STATES_AMENDMENT_ACT_1949:6"]}
-{"document_id":"2023_472","split":"test","anc":["ACT:EXCISE_TARIFF_ACT_1985","ACT:SALES_TAX_ACT_1956","ACT:SALES_TAX_ACT_1959","ACT:SALES_TAX_ACT_1975","ACT:SPECIAL_IMPORTANCE_ACT_1957","ACT:TRADE_TAX_ACT_1948"]}
-{"document_id":"1975_471","split":"test","anc":["ACT:FOOD_ADULTERATION_ACT_1954","SEC:FOOD_ADULTERATION_ACT_1954:16","SEC:FOOD_ADULTERATION_ACT_1954:7"]}
-{"document_id":"1987_512","split":"test","anc":["ACT:CONST","SEC:CONST:226","SEC:CONST:32"]}
-{"document_id":"1962_167","split":"test","anc":["ACT:IPC","SEC:IPC:12","SEC:IPC:120B","SEC:IPC:13","SEC:IPC:409"]}
-{"document_id":"2008_908","split":"test","anc":[]}
-{"document_id":"2023_597","split":"test","anc":["ACT:CONST","ACT:LAND_ACQUISITION_ACT_1894","ACT:REHABILITATION_RESETTLEMENT_ACT_2013","SEC:CONST:226"]}
-{"document_id":"1964_47","split":"test","anc":["ACT:EVACUEE_PROPERTY_ACT_1950","ACT:LIMITATION_ACT_1908","SEC:EVACUEE_PROPERTY_ACT_1950:48"]}
-{"document_id":"2005_696","split":"test","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:304","SEC:IPC:34"]}
-{"document_id":"1974_72","split":"test","anc":["ACT:ALIENATION_ABOLITION_ACT_1955","SEC:ALIENATION_ABOLITION_ACT_1955:17"]}
-{"document_id":"1959_226","split":"test","anc":["ACT:IPC","SEC:IPC:120B","SEC:IPC:417","SEC:IPC:467","SEC:IPC:471","SEC:IPC:511"]}
-{"document_id":"1996_275","split":"test","anc":["ACT:LANDS_TAX_ACT_1964","SEC:LANDS_TAX_ACT_1964:3"]}
-{"document_id":"1995_1147","split":"test","anc":["ACT:HARYANA_MUNICIPALITIES_ACT_1973"]}
-{"document_id":"1996_410","split":"test","anc":["ACT:INDIAN_TELEGRAPH_ACT_1885"]}
-{"document_id":"2009_512","split":"test","anc":["ACT:CRPC"]}
-{"document_id":"2003_174","split":"test","anc":["ACT:INDIAN_PARTNERSHIP_ACT_1932"]}
-{"document_id":"1996_1359","split":"test","anc":[]}
-{"document_id":"2016_496","split":"test","anc":["ACT:FULL_PARTICIPATION_ACT_1995"]}
-{"document_id":"1988_504","split":"test","anc":["ACT:INDIA_LTD_ACT_1977"]}
-{"document_id":"1980_195","split":"test","anc":["ACT:INDIAN_CONTRACT_ACT_1872","SEC:INDIAN_CONTRACT_ACT_1872:140","SEC:INDIAN_CONTRACT_ACT_1872:141"]}
-{"document_id":"2000_1137","split":"test","anc":["ACT:INDIAN_COMPANIES_ACT_1956","ACT:INDUSTRIAL_DISPUTES_ACT_1947"]}
-{"document_id":"1980_168","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894"]}
-{"document_id":"2022_919","split":"test","anc":["ACT:CONSUMER_PROTECTION_ACT_1986"]}
-{"document_id":"1996_439","split":"test","anc":["ACT:CRPC","ACT:IPC"]}
-{"document_id":"2003_1274","split":"test","anc":[]}
-{"document_id":"1980_170","split":"test","anc":["ACT:CONST","SEC:CONST:14"]}
-{"document_id":"1988_379","split":"test","anc":["ACT:CONTROL_ACT_1968","ACT:CUSTOMS_ACT_1962","SEC:CONTROL_ACT_1968:95"]}
-{"document_id":"1953_20","split":"test","anc":["ACT:INDIAN_SUCCESSION_ACT_1925"]}
-{"document_id":"2006_371","split":"test","anc":["ACT:MINIMUM_WAGES_ACT_1948"]}
-{"document_id":"1971_341","split":"test","anc":["ACT:SALES_TAX_ACT_1954"]}
-{"document_id":"1977_86","split":"test","anc":["ACT:EVICTION_CONTROL_ACT_1947","SEC:EVICTION_CONTROL_ACT_1947:11"]}
-{"document_id":"2010_418","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894"]}
-{"document_id":"1998_1269","split":"test","anc":["ACT:TENANCY_ACT_1958","SEC:TENANCY_ACT_1958:129","SEC:TENANCY_ACT_1958:54"]}
-{"document_id":"1987_317","split":"test","anc":[]}
-{"document_id":"2008_1700","split":"test","anc":["ACT:KARNATAKA_RENT_ACT_1999","ACT:RENT_CONTROL_ACT_1961","SEC:KARNATAKA_RENT_ACT_1999:2"]}
-{"document_id":"2003_551","split":"test","anc":["ACT:COMPANIES_ACT_1956","ACT:CPC","ACT:REGISTRATION_BOOKS_ACT_1867"]}
-{"document_id":"2006_1030","split":"test","anc":["ACT:INDIAN_ELECTRICITY_ACT_1910"]}
-{"document_id":"2002_1231","split":"test","anc":["ACT:LAND_ACQUISITION_ACT_1894","SEC:LAND_ACQUISITION_ACT_1894:28"]}
-{"document_id":"2024_156","split":"test","anc":["ACT:CONSUMER_PROTECTION_ACT_1986"]}
-{"document_id":"1997_355","split":"dev","anc":[]}
-{"document_id":"1995_191","split":"dev","anc":["ACT:TRADE_PRACTICES_ACT_1969","SEC:TRADE_PRACTICES_ACT_1969:33"]}
-{"document_id":"1969_453","split":"dev","anc":["ACT:EXCISES_SALT_ACT_1944","ACT:FINANCE_ACT_1961"]}
-{"document_id":"1967_41","split":"dev","anc":["ACT:CONST"]}
-{"document_id":"1986_295","split":"dev","anc":["ACT:NATIONALISATION_ACT_1974","SEC:NATIONALISATION_ACT_1974:21"]}
-{"document_id":"2019_323","split":"dev","anc":["ACT:EVICTION_CONTROL_ACT_1968","ACT:GOA_RENT_ACT_1968","ACT:INVENTORY_PROCEEDING_ACT_2012"]}
-{"document_id":"2018_632","split":"dev","anc":[]}
-{"document_id":"1961_340","split":"dev","anc":["ACT:CONST","ACT:PRICE_PAGE_ACT_1956","SEC:CONST:19"]}
-{"document_id":"1971_518","split":"dev","anc":["ACT:INCOME_TAX_ACT_1922","SEC:INCOME_TAX_ACT_1922:34","SEC:INCOME_TAX_ACT_1922:66"]}
-{"document_id":"1968_74","split":"dev","anc":["ACT:REGULATION_ACT_1952","SEC:REGULATION_ACT_1952:11"]}
-{"document_id":"1999_1067","split":"dev","anc":["ACT:CENTRAL_EXCISE_ACT_1944"]}
-{"document_id":"2019_1167","split":"dev","anc":["ACT:CRPC","ACT:MONEY_LAUNDERING_ACT_2002","SEC:CRPC:439"]}
-{"document_id":"1974_48","split":"dev","anc":["ACT:PORT_TRUST_ACT_1879","SEC:PORT_TRUST_ACT_1879:87"]}
-{"document_id":"1994_1145","split":"dev","anc":["ACT:MUNICIPAL_CORPORATION_ACT_1976","SEC:MUNICIPAL_CORPORATION_ACT_1976:116"]}
-{"document_id":"2008_2392","split":"dev","anc":["ACT:AGRICULTURISTS_RELIEF_ACT_1938","ACT:CPC","SEC:AGRICULTURISTS_RELIEF_ACT_1938:23A","SEC:CPC:144"]}
-{"document_id":"1975_335","split":"dev","anc":["ACT:HINDU_SUCCESSION_ACT_1956"]}
-{"document_id":"1963_275","split":"dev","anc":["ACT:INCOME_TAX_ACT_1922"]}
-{"document_id":"2002_641","split":"dev","anc":["ACT:CONTROL_ACT_ACT_1960"]}
-{"document_id":"2010_520","split":"dev","anc":["ACT:CONST","SEC:CONST:14","SEC:CONST:309"]}
-{"document_id":"2006_682","split":"dev","anc":["ACT:CRPC","ACT:IPC","SEC:IPC:307"]}
-{"document_id":"1976_51","split":"dev","anc":["ACT:INCOME_TAX_ACT_1961","SEC:INCOME_TAX_ACT_1961:10"]}
-{"document_id":"1976_332","split":"dev","anc":["ACT:LIMITATION_ACT_1963","ACT:MOTOR_VEHICLES_ACT_1939","SEC:LIMITATION_ACT_1963:29","SEC:LIMITATION_ACT_1963:58","SEC:LIMITATION_ACT_1963:68F","SEC:MOTOR_VEHICLES_ACT_1939:68C"]}
-{"document_id":"1976_32","split":"dev","anc":["ACT:LAND_REFORMS_ACT_1950","SEC:LAND_REFORMS_ACT_1950:172","SEC:LAND_REFORMS_ACT_1950:174"]}
-{"document_id":"2006_1108","split":"dev","anc":["ACT:EXCISE_TARIFF_ACT_1985"]}
-{"document_id":"1994_792","split":"dev","anc":["ACT:PREVENTION_ACT_1987","SEC:PREVENTION_ACT_1987:20","SEC:PREVENTION_ACT_1987:5"]}
-{"document_id":"2000_327","split":"dev","anc":["ACT:CONTROL_ACT_1947","ACT:CUSTOMS_ACT_1962"]}
-{"document_id":"2020_89","split":"dev","anc":["ACT:SPECIFIC_RELIEF_ACT_1963"]}
-{"document_id":"1972_431","split":"dev","anc":["ACT:INCOME_TAX_ACT_1922","ACT:INCOME_TAX_ACT_1961","SEC:INCOME_TAX_ACT_1922:33","SEC:INCOME_TAX_ACT_1922:35"]}
-{"document_id":"2006_540","split":"dev","anc":["ACT:STATE_INSURANCE_ACT_1948"]}
-{"document_id":"2007_550","split":"dev","anc":["ACT:AIR_FORCE_ACT_1950"]}
-{"document_id":"1993_303","split":"dev","anc":["ACT:GUJARAT_MUNICIPALITIES_ACT_1963","SEC:GUJARAT_MUNICIPALITIES_ACT_1963:105","SEC:GUJARAT_MUNICIPALITIES_ACT_1963:112","SEC:GUJARAT_MUNICIPALITIES_ACT_1963:2","SEC:GUJARAT_MUNICIPALITIES_ACT_1963:99"]}
-{"document_id":"1962_143","split":"dev","anc":["ACT:SALES_TAX_ACT_1939","SEC:SALES_TAX_ACT_1939:5","SEC:SALES_TAX_ACT_1939:6"]}
-{"document_id":"2002_671","split":"dev","anc":["ACT:INDIAN_EASEMENTS_ACT_1882","SEC:INDIAN_EASEMENTS_ACT_1882:52","SEC:INDIAN_EASEMENTS_ACT_1882:64"]}
-{"document_id":"1999_98","split":"dev","anc":[]}
-{"document_id":"1981_155","split":"dev","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:326","SEC:IPC:34"]}
-{"document_id":"2001_662","split":"dev","anc":["ACT:INDIAN_CONTRACT_ACT_1872","ACT:NATIONALISATION_ACT_1972"]}
-{"document_id":"2009_483","split":"dev","anc":["ACT:IPC"]}
-{"document_id":"1997_930","split":"dev","anc":["ACT:INCOME_TAX_ACT_1922","ACT:INCOME_TAX_ACT_1961"]}
-{"document_id":"1963_295","split":"dev","anc":["ACT:INCOME_TAX_ACT_1922","SEC:INCOME_TAX_ACT_1922:10"]}
-{"document_id":"1983_157","split":"dev","anc":["ACT:IPC","SEC:IPC:218","SEC:IPC:302","SEC:IPC:323","SEC:IPC:34"]}
-{"document_id":"1971_460","split":"dev","anc":["ACT:INCOME_TAX_ACT_1922"]}
-{"document_id":"1987_484","split":"dev","anc":[]}
-{"document_id":"2002_1219","split":"dev","anc":["ACT:RENT_CONTROL_ACT_1960","SEC:RENT_CONTROL_ACT_1960:14"]}
-{"document_id":"1979_318","split":"dev","anc":["ACT:CRPC","ACT:IPC","SEC:CRPC:517","SEC:CRPC:96","SEC:IPC:302"]}
-{"document_id":"2003_1311","split":"dev","anc":[]}
-{"document_id":"2002_848","split":"dev","anc":["ACT:IPC","SEC:IPC:302","SEC:IPC:304"]}
-{"document_id":"1951_13","split":"dev","anc":[]}
-{"document_id":"1988_225","split":"dev","anc":["ACT:RENT_EVICTION_ACT_1972","SEC:RENT_EVICTION_ACT_1972:39","SEC:RENT_EVICTION_ACT_1972:40"]}
-{"document_id":"2008_2807","split":"dev","anc":["ACT:MERCHANDISE_MARKS_ACT_1958","SEC:MERCHANDISE_MARKS_ACT_1958:46"]}
-{"document_id":"1994_1118","split":"dev","anc":[]}
-{"document_id":"2022_160","split":"dev","anc":["ACT:SARFAESI_ACT_2002","ACT:SECURITY_INTEREST_ACT_2002"]}
-{"document_id":"1993_403","split":"dev","anc":[]}
-{"document_id":"2021_233","split":"dev","anc":["ACT:INCOME_TAX_ACT_1961","SEC:INCOME_TAX_ACT_1961:80"]}
-{"document_id":"2009_444","split":"dev","anc":["ACT:CPC"]}
-{"document_id":"1973_315","split":"dev","anc":["ACT:INTERNAL_SECURITY_ACT_1971"]}
-{"document_id":"2005_143","split":"dev","anc":["ACT:SALES_TAX_ACT_1957","SEC:SALES_TAX_ACT_1957:5G"]}
-{"document_id":"1997_1154","split":"dev","anc":["ACT:CONTEMPT_COURTS_ACT_1971","SEC:CONTEMPT_COURTS_ACT_1971:2"]}
-{"document_id":"1962_79","split":"dev","anc":["ACT:LAND_RESETTLEMENT_ACT_1949","ACT:LAND_REVENUE_ACT_1887"]}
-{"document_id":"1972_537","split":"dev","anc":["ACT:CONST","SEC:CONST:286"]}
-{"document_id":"1968_77","split":"dev","anc":["ACT:LAND_REFORMS_ACT_1952","ACT:LAND_REVENUE_ACT_1901","SEC:LAND_REFORMS_ACT_1952:20"]}
+{"document_id": "2001_713", "split": "test", "full": ["ACT:CUSTOMS_ACT_1962", "ACT:PROVISO_CUSTOMS_ACT_1962", "SEC:PROVISO_CUSTOMS_ACT_1962:28"], "inv": ["ACT:Y1962", "SEC:Y1962:28"]}
+{"document_id": "1964_98", "split": "test", "full": ["ACT:IPC", "SEC:IPC:415", "SEC:IPC:419"], "inv": ["ACT:IPC", "SEC:IPC:415", "SEC:IPC:419"]}
+{"document_id": "1977_209", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:396"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:396"]}
+{"document_id": "1972_139", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:18", "SEC:LAND_ACQUISITION_ACT_1894:5"], "inv": ["ACT:Y1894", "SEC:Y1894:18", "SEC:Y1894:5"]}
+{"document_id": "2003_894", "split": "test", "full": ["ACT:FINANCIAL_CORPORATIONS_ACT_1959"], "inv": ["ACT:Y1959"]}
+{"document_id": "2018_377", "split": "test", "full": [], "inv": []}
+{"document_id": "2003_757", "split": "test", "full": ["ACT:BACKWARD_CLASSES_ACT_1994", "ACT:CONST", "SEC:CONST:226", "SEC:CONST:342"], "inv": ["ACT:CONST", "ACT:Y1994", "SEC:CONST:226", "SEC:CONST:342"]}
+{"document_id": "2020_51", "split": "test", "full": ["ACT:CRPC", "ACT:DOWRY_PROHIBITION_ACT_1961", "ACT:IPC", "SEC:DOWRY_PROHIBITION_ACT_1961:3", "SEC:DOWRY_PROHIBITION_ACT_1961:4", "SEC:IPC:3", "SEC:IPC:4", "SEC:IPC:406", "SEC:IPC:420", "SEC:IPC:498A"], "inv": ["ACT:CRPC", "ACT:IPC", "ACT:Y1961", "SEC:IPC:3", "SEC:IPC:4", "SEC:IPC:406", "SEC:IPC:420", "SEC:IPC:498A", "SEC:Y1961:3", "SEC:Y1961:4"]}
+{"document_id": "1997_1332", "split": "test", "full": ["ACT:BIHAR_EXCISE_ACT_1915", "SEC:BIHAR_EXCISE_ACT_1915:22", "SEC:BIHAR_EXCISE_ACT_1915:29", "SEC:BIHAR_EXCISE_ACT_1915:43"], "inv": ["ACT:Y1915", "SEC:Y1915:22", "SEC:Y1915:29", "SEC:Y1915:43"]}
+{"document_id": "1994_591", "split": "test", "full": [], "inv": []}
+{"document_id": "1998_267", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1992_166", "split": "test", "full": ["ACT:IPC", "SEC:IPC:120B", "SEC:IPC:415", "SEC:IPC:420"], "inv": ["ACT:IPC", "SEC:IPC:120B", "SEC:IPC:415", "SEC:IPC:420"]}
+{"document_id": "2023_138", "split": "test", "full": ["ACT:CONST"], "inv": ["ACT:CONST"]}
+{"document_id": "1971_125", "split": "test", "full": ["ACT:ANDHRA_UNIVERSITY_ACT_1926", "ACT:CONST"], "inv": ["ACT:CONST", "ACT:Y1926"]}
+{"document_id": "1969_175", "split": "test", "full": ["ACT:CONST", "ACT:REGULATION_ADMINISTRATION_ACT_1960", "SEC:CONST:30"], "inv": ["ACT:CONST", "ACT:Y1960", "SEC:CONST:30"]}
+{"document_id": "1969_485", "split": "test", "full": ["ACT:CONTROL_ACT_ACT_1959", "SEC:CONTROL_ACT_ACT_1959:11"], "inv": ["ACT:Y1959", "SEC:Y1959:11"]}
+{"document_id": "1995_873", "split": "test", "full": ["ACT:AGRICULTURAL_HOLDINGS_ACT_1973"], "inv": ["ACT:Y1973"]}
+{"document_id": "2010_1189", "split": "test", "full": ["ACT:MERCHANDISE_MARKS_ACT_1958", "ACT:TRADE_MARKS_ACT_1999", "SEC:MERCHANDISE_MARKS_ACT_1958:46", "SEC:MERCHANDISE_MARKS_ACT_1958:56"], "inv": ["ACT:Y1958", "ACT:Y1999", "SEC:Y1958:46", "SEC:Y1958:56"]}
+{"document_id": "1976_137", "split": "test", "full": ["ACT:MOTOR_VEHICLES_ACT_1961", "SEC:MOTOR_VEHICLES_ACT_1961:4"], "inv": ["ACT:Y1961", "SEC:Y1961:4"]}
+{"document_id": "1980_183", "split": "test", "full": ["ACT:PRADESH_EXCISE_ACT_1968"], "inv": ["ACT:Y1968"]}
+{"document_id": "2005_461", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:324"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:324"]}
+{"document_id": "2006_133", "split": "test", "full": ["ACT:RENT_EVICTION_ACT_1973"], "inv": ["ACT:Y1973"]}
+{"document_id": "1971_80", "split": "test", "full": ["ACT:REGULATION_DEVELOPMENT_ACT_1957", "SEC:REGULATION_DEVELOPMENT_ACT_1957:11"], "inv": ["ACT:Y1957", "SEC:Y1957:11"]}
+{"document_id": "1974_222", "split": "test", "full": ["ACT:INDIAN_EVIDENCE_ACT_1872", "ACT:INDIAN_SUCCESSION_ACT_1925"], "inv": ["ACT:Y1872", "ACT:Y1925"]}
+{"document_id": "2023_729", "split": "test", "full": ["ACT:CITIZENSHIP_ACT_1955", "ACT:FOREIGNERS_ACT_1946"], "inv": ["ACT:Y1946", "ACT:Y1955"]}
+{"document_id": "2007_338", "split": "test", "full": [], "inv": []}
+{"document_id": "2024_130", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1988_40", "split": "test", "full": ["ACT:RELIGIOUS_SOCIETIES_ACT_1880"], "inv": ["ACT:Y1880"]}
+{"document_id": "2022_1148", "split": "test", "full": ["ACT:CPC", "ACT:OPERATIVE_SOCIETIES_ACT_1961"], "inv": ["ACT:CPC", "ACT:Y1961"]}
+{"document_id": "2009_1262", "split": "test", "full": ["ACT:ACTIVITIES_PREVENTION_ACT_1987", "SEC:ACTIVITIES_PREVENTION_ACT_1987:15"], "inv": ["ACT:Y1987", "SEC:Y1987:15"]}
+{"document_id": "1995_1274", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:11", "SEC:LAND_ACQUISITION_ACT_1894:4", "SEC:LAND_ACQUISITION_ACT_1894:6"], "inv": ["ACT:Y1894", "SEC:Y1894:11", "SEC:Y1894:4", "SEC:Y1894:6"]}
+{"document_id": "2003_603", "split": "test", "full": ["ACT:MOTOR_VEHICLES_ACT_1988"], "inv": ["ACT:Y1988"]}
+{"document_id": "2007_673", "split": "test", "full": ["ACT:MOTOR_VEHICLES_ACT_1988", "SEC:MOTOR_VEHICLES_ACT_1988:140", "SEC:MOTOR_VEHICLES_ACT_1988:141", "SEC:MOTOR_VEHICLES_ACT_1988:166"], "inv": ["ACT:Y1988", "SEC:Y1988:140", "SEC:Y1988:141", "SEC:Y1988:166"]}
+{"document_id": "1965_96", "split": "test", "full": ["ACT:PUNJAB_TENANCY_ACT_1887"], "inv": ["ACT:Y1887"]}
+{"document_id": "1994_846", "split": "test", "full": [], "inv": []}
+{"document_id": "2004_986", "split": "test", "full": ["ACT:CRPC", "ACT:IPC"], "inv": ["ACT:CRPC", "ACT:IPC"]}
+{"document_id": "2004_67", "split": "test", "full": ["ACT:ADMINISTRATIVE_TRIBUNALS_ACT_1985", "ACT:CRPC", "SEC:ADMINISTRATIVE_TRIBUNALS_ACT_1985:15", "SEC:CRPC:25"], "inv": ["ACT:CRPC", "ACT:Y1985", "SEC:CRPC:25", "SEC:Y1985:15"]}
+{"document_id": "1983_165", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1979_440", "split": "test", "full": ["ACT:RELIGIOUS_TRUST_ACT_1951"], "inv": ["ACT:Y1951"]}
+{"document_id": "2003_715", "split": "test", "full": ["ACT:CRPC", "ACT:PREVENTION_CORRUPTION_ACT_1988"], "inv": ["ACT:CRPC", "ACT:Y1988"]}
+{"document_id": "2022_37", "split": "test", "full": ["ACT:PSYCHOTROPIC_SUBSTANCES_ACT_1994", "ACT:REPATRIATION_PRISONERS_ACT_2003"], "inv": ["ACT:Y1994", "ACT:Y2003"]}
+{"document_id": "2022_1224", "split": "test", "full": ["ACT:ACT_2013", "ACT:REHABILITATION_RESETTLEMENT_ACT_2013", "SEC:ACT_2013:24", "SEC:REHABILITATION_RESETTLEMENT_ACT_2013:24"], "inv": ["ACT:Y2013", "SEC:Y2013:24"]}
+{"document_id": "1974_221", "split": "test", "full": ["ACT:PUBLIC_HEALTH_ACT_1939", "ACT:TOWN_PLANNING_ACT_1920"], "inv": ["ACT:Y1920", "ACT:Y1939"]}
+{"document_id": "1972_412", "split": "test", "full": [], "inv": []}
+{"document_id": "2005_231", "split": "test", "full": ["ACT:MUNICIPAL_CORPORATION_ACT_1980"], "inv": ["ACT:Y1980"]}
+{"document_id": "1994_1160", "split": "test", "full": ["ACT:EXCISES_SALT_ACT_1944", "ACT:EXCISE_TARIFF_ACT_1985"], "inv": ["ACT:Y1944", "ACT:Y1985"]}
+{"document_id": "2007_963", "split": "test", "full": ["ACT:INDIAN_COMPANIES_ACT_1956", "ACT:INDIAN_EVIDENCE_ACT_1872"], "inv": ["ACT:Y1872", "ACT:Y1956"]}
+{"document_id": "2009_1855", "split": "test", "full": ["ACT:CONSUMER_PROTECTION_ACT_1986"], "inv": ["ACT:Y1986"]}
+{"document_id": "1962_334", "split": "test", "full": [], "inv": []}
+{"document_id": "1999_891", "split": "test", "full": ["ACT:CONST", "ACT:CONTROL_POLLUTION_ACT_1974", "SEC:CONST:252"], "inv": ["ACT:CONST", "ACT:Y1974", "SEC:CONST:252"]}
+{"document_id": "1961_325", "split": "test", "full": ["ACT:CRPC", "ACT:IPC"], "inv": ["ACT:CRPC", "ACT:IPC"]}
+{"document_id": "1961_60", "split": "test", "full": ["ACT:MADRAS_AMENDMENT_ACT_1949", "ACT:SHARIAT_APPLICATION_ACT_1937"], "inv": ["ACT:Y1937", "ACT:Y1949"]}
+{"document_id": "1998_834", "split": "test", "full": ["ACT:ADMINISTRATIVE_TRIBUNALS_ACT_1985"], "inv": ["ACT:Y1985"]}
+{"document_id": "1961_256", "split": "test", "full": ["ACT:EVACUEE_PROPERTY_ACT_1950"], "inv": ["ACT:Y1950"]}
+{"document_id": "2003_251", "split": "test", "full": ["ACT:LAND_REFORMS_ACT_1950"], "inv": ["ACT:Y1950"]}
+{"document_id": "1968_130", "split": "test", "full": ["ACT:CONST", "ACT:CONTEMPT_COURTS_ACT_1952", "SEC:CONST:227", "SEC:CONTEMPT_COURTS_ACT_1952:4", "SEC:CONTEMPT_COURTS_ACT_1952:5"], "inv": ["ACT:CONST", "ACT:Y1952", "SEC:CONST:227", "SEC:Y1952:4", "SEC:Y1952:5"]}
+{"document_id": "1978_360", "split": "test", "full": ["ACT:APPELLATE_JURISDICTION_ACT_1970", "ACT:IPC"], "inv": ["ACT:IPC", "ACT:Y1970"]}
+{"document_id": "1969_428", "split": "test", "full": ["ACT:FOOD_ADULTERATION_ACT_1954"], "inv": ["ACT:Y1954"]}
+{"document_id": "2018_465", "split": "test", "full": ["ACT:MEDICAL_COUNCIL_ACT_1956", "SEC:MEDICAL_COUNCIL_ACT_1956:10A", "SEC:MEDICAL_COUNCIL_ACT_1956:11"], "inv": ["ACT:Y1956", "SEC:Y1956:10A", "SEC:Y1956:11"]}
+{"document_id": "2023_979", "split": "test", "full": ["ACT:LOK_AYUKTA_ACT_1999", "ACT:SURVEY_BOUNDARIES_ACT_1961"], "inv": ["ACT:Y1961", "ACT:Y1999"]}
+{"document_id": "2004_683", "split": "test", "full": ["ACT:CPC", "ACT:INDIAN_EVIDENCE_ACT_1872", "ACT:IPC"], "inv": ["ACT:CPC", "ACT:IPC", "ACT:Y1872"]}
+{"document_id": "1988_484", "split": "test", "full": ["ACT:RENT_EVICTION_ACT_1972"], "inv": ["ACT:Y1972"]}
+{"document_id": "1987_418", "split": "test", "full": [], "inv": []}
+{"document_id": "2000_894", "split": "test", "full": ["ACT:COMPENSATION_REHABILITATION_ACT_1954"], "inv": ["ACT:Y1954"]}
+{"document_id": "1984_352", "split": "test", "full": ["ACT:FOOD_ADULTERATION_ACT_1954", "SEC:FOOD_ADULTERATION_ACT_1954:16", "SEC:FOOD_ADULTERATION_ACT_1954:7"], "inv": ["ACT:Y1954", "SEC:Y1954:16", "SEC:Y1954:7"]}
+{"document_id": "2003_796", "split": "test", "full": ["ACT:POLICE_FORCE_ACT_1959"], "inv": ["ACT:Y1959"]}
+{"document_id": "1991_184", "split": "test", "full": ["ACT:CONST", "SEC:CONST:286"], "inv": ["ACT:CONST", "SEC:CONST:286"]}
+{"document_id": "1996_2232", "split": "test", "full": ["ACT:MEANING_MINES_ACT_1952", "ACT:USER_LAND_ACT_1962", "SEC:MEANING_MINES_ACT_1952:2", "SEC:USER_LAND_ACT_1962:3"], "inv": ["ACT:Y1952", "ACT:Y1962", "SEC:Y1952:2", "SEC:Y1962:3"]}
+{"document_id": "1989_231", "split": "test", "full": ["ACT:CPC", "ACT:SPECIFIC_RELIEF_ACT_1963"], "inv": ["ACT:CPC", "ACT:Y1963"]}
+{"document_id": "1970_264", "split": "test", "full": ["ACT:CPC", "SEC:CPC:75", "SEC:CPC:77"], "inv": ["ACT:CPC", "SEC:CPC:75", "SEC:CPC:77"]}
+{"document_id": "1984_60", "split": "test", "full": ["ACT:REPRESENTATION_PEOPLE_ACT_1951"], "inv": ["ACT:Y1951"]}
+{"document_id": "2007_986", "split": "test", "full": ["ACT:IPC", "SEC:IPC:201", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:201", "SEC:IPC:302"]}
+{"document_id": "1957_84", "split": "test", "full": [], "inv": []}
+{"document_id": "2008_2769", "split": "test", "full": ["ACT:CRPC", "SEC:CRPC:397", "SEC:CRPC:482"], "inv": ["ACT:CRPC", "SEC:CRPC:397", "SEC:CRPC:482"]}
+{"document_id": "2007_612", "split": "test", "full": ["ACT:SPECIAL_POWERS_ACT_1958"], "inv": ["ACT:Y1958"]}
+{"document_id": "1998_262", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "2020_317", "split": "test", "full": ["ACT:CONST"], "inv": ["ACT:CONST"]}
+{"document_id": "1969_215", "split": "test", "full": ["ACT:PREVENTION_CORRUPTION_ACT_1947", "SEC:PREVENTION_CORRUPTION_ACT_1947:5"], "inv": ["ACT:Y1947", "SEC:Y1947:5"]}
+{"document_id": "1991_539", "split": "test", "full": ["ACT:HINDU_SUCCESSION_ACT_1956", "ACT:SYSTEM_ABOLITION_ACT_1975"], "inv": ["ACT:Y1956", "ACT:Y1975"]}
+{"document_id": "1985_9", "split": "test", "full": ["ACT:INDIAN_SUCCESSION_ACT_1925"], "inv": ["ACT:Y1925"]}
+{"document_id": "1994_1073", "split": "test", "full": ["ACT:ACTIVITIES_PREVENTION_ACT_1987", "ACT:SHORT_ARMS_ACT_1959", "ACT:TADA_ARMS_ACT_1959", "SEC:ACTIVITIES_PREVENTION_ACT_1987:5"], "inv": ["ACT:Y1959", "ACT:Y1987", "SEC:Y1987:5"]}
+{"document_id": "1977_45", "split": "test", "full": ["ACT:TRADE_PRACTICES_ACT_1969"], "inv": ["ACT:Y1969"]}
+{"document_id": "1961_374", "split": "test", "full": ["ACT:MADHYA_PRADESH_ACT_1956", "SEC:MADHYA_PRADESH_ACT_1956:3"], "inv": ["ACT:Y1956", "SEC:Y1956:3"]}
+{"document_id": "2010_862", "split": "test", "full": ["ACT:INSURANCE_ACT_1938", "ACT:MOTOR_VEHICLES_ACT_1988"], "inv": ["ACT:Y1938", "ACT:Y1988"]}
+{"document_id": "2002_165", "split": "test", "full": ["ACT:IPC", "SEC:IPC:149", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:149", "SEC:IPC:302"]}
+{"document_id": "1997_401", "split": "test", "full": ["ACT:ESTATE_DUTY_ACT_1953", "SEC:ESTATE_DUTY_ACT_1953:48OF"], "inv": ["ACT:Y1953", "SEC:Y1953:48OF"]}
+{"document_id": "2017_432", "split": "test", "full": ["ACT:CAPITATION_FEE_ACT_1987"], "inv": ["ACT:Y1987"]}
+{"document_id": "1996_1751", "split": "test", "full": ["ACT:LAND_HOLDINGS_ACT_1960", "ACT:TRANSFER_PROPERTY_ACT_1882", "SEC:LAND_HOLDINGS_ACT_1960:53A"], "inv": ["ACT:Y1882", "ACT:Y1960", "SEC:Y1960:53A"]}
+{"document_id": "1991_199", "split": "test", "full": [], "inv": []}
+{"document_id": "1994_4", "split": "test", "full": ["ACT:PUNJAB_REORGANISATION_ACT_1966"], "inv": ["ACT:Y1966"]}
+{"document_id": "2002_499", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1987_576", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1961", "SEC:INCOME_TAX_ACT_1961:24"], "inv": ["ACT:Y1961", "SEC:Y1961:24"]}
+{"document_id": "1998_1125", "split": "test", "full": ["ACT:CRPC", "ACT:IPC", "ACT:PREVENTION_CORRUPTION_ACT_1947", "SEC:CRPC:379", "SEC:IPC:148", "SEC:IPC:149", "SEC:IPC:302", "SEC:IPC:307", "SEC:IPC:449", "SEC:PREVENTION_CORRUPTION_ACT_1947:3"], "inv": ["ACT:CRPC", "ACT:IPC", "ACT:Y1947", "SEC:CRPC:379", "SEC:IPC:148", "SEC:IPC:149", "SEC:IPC:302", "SEC:IPC:307", "SEC:IPC:449", "SEC:Y1947:3"]}
+{"document_id": "1973_18", "split": "test", "full": ["ACT:CRPC", "ACT:IPC"], "inv": ["ACT:CRPC", "ACT:IPC"]}
+{"document_id": "2006_1107", "split": "test", "full": ["ACT:CRPC", "ACT:IPC", "SEC:IPC:224"], "inv": ["ACT:CRPC", "ACT:IPC", "SEC:IPC:224"]}
+{"document_id": "1986_108", "split": "test", "full": ["ACT:CRPC", "ACT:EXPORTS_CONTROL_ACT_1947", "ACT:PROVISIONS_CUSTOMS_ACT_1962", "SEC:CRPC:482", "SEC:EXPORTS_CONTROL_ACT_1947:5"], "inv": ["ACT:CRPC", "ACT:Y1947", "ACT:Y1962", "SEC:CRPC:482", "SEC:Y1947:5"]}
+{"document_id": "2006_782", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:34"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:34"]}
+{"document_id": "1971_156", "split": "test", "full": ["ACT:CRPC", "ACT:IPC", "SEC:CRPC:549"], "inv": ["ACT:CRPC", "ACT:IPC", "SEC:CRPC:549"]}
+{"document_id": "1998_162", "split": "test", "full": ["ACT:LABOUR_PRACTICES_ACT_1971", "SEC:LABOUR_PRACTICES_ACT_1971:2", "SEC:LABOUR_PRACTICES_ACT_1971:26"], "inv": ["ACT:Y1971", "SEC:Y1971:2", "SEC:Y1971:26"]}
+{"document_id": "1971_2", "split": "test", "full": ["ACT:LAND_REFORMS_ACT_1950", "SEC:LAND_REFORMS_ACT_1950:30", "SEC:LAND_REFORMS_ACT_1950:4"], "inv": ["ACT:Y1950", "SEC:Y1950:30", "SEC:Y1950:4"]}
+{"document_id": "2003_600", "split": "test", "full": ["ACT:MOTOR_VEHICLES_ACT_1988"], "inv": ["ACT:Y1988"]}
+{"document_id": "2006_1167", "split": "test", "full": ["ACT:TRANSFER_PROPERTY_ACT_1882", "SEC:TRANSFER_PROPERTY_ACT_1882:52"], "inv": ["ACT:Y1882", "SEC:Y1882:52"]}
+{"document_id": "1996_547", "split": "test", "full": ["ACT:INDIAN_EASEMENTS_ACT_1882"], "inv": ["ACT:Y1882"]}
+{"document_id": "2008_1984", "split": "test", "full": [], "inv": []}
+{"document_id": "1998_868", "split": "test", "full": [], "inv": []}
+{"document_id": "1993_527", "split": "test", "full": ["ACT:IPC", "ACT:PRESIDENTIAL_ELECTIONS_ACT_1952"], "inv": ["ACT:IPC", "ACT:Y1952"]}
+{"document_id": "1971_578", "split": "test", "full": ["ACT:BY_FINANCE_ACT_1963", "ACT:FINANCE_ACT_1964", "ACT:INCOME_TAX_ACT_1961", "ACT:TAX_FINANCE_ACT_1964"], "inv": ["ACT:Y1961", "ACT:Y1963", "ACT:Y1964"]}
+{"document_id": "1967_144", "split": "test", "full": ["ACT:INDIA_SERVICE_ACT_1951"], "inv": ["ACT:Y1951"]}
+{"document_id": "1996_1822", "split": "test", "full": ["ACT:INDIAN_CONTRACT_ACT_1872", "ACT:REGISTRATION_ACT_1908"], "inv": ["ACT:Y1872", "ACT:Y1908"]}
+{"document_id": "1987_268", "split": "test", "full": ["ACT:CONTEMPT_COURTS_ACT_1971"], "inv": ["ACT:Y1971"]}
+{"document_id": "2008_1597", "split": "test", "full": ["ACT:SALES_TAX_ACT_1956"], "inv": ["ACT:Y1956"]}
+{"document_id": "1968_163", "split": "test", "full": [], "inv": []}
+{"document_id": "1991_416", "split": "test", "full": ["ACT:CONST", "ACT:INDIAN_RAILWAYS_ACT_1890", "SEC:CONST:226", "SEC:CONST:285", "SEC:INDIAN_RAILWAYS_ACT_1890:135"], "inv": ["ACT:CONST", "ACT:Y1890", "SEC:CONST:226", "SEC:CONST:285", "SEC:Y1890:135"]}
+{"document_id": "2018_296", "split": "test", "full": ["ACT:IPC", "ACT:PREVENTION_ATROCITIES_ACT_1989", "SEC:IPC:148", "SEC:IPC:302"], "inv": ["ACT:IPC", "ACT:Y1989", "SEC:IPC:148", "SEC:IPC:302"]}
+{"document_id": "1969_431", "split": "test", "full": ["ACT:IPC"], "inv": ["ACT:IPC"]}
+{"document_id": "2017_512", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1961", "ACT:PUBLIC_TRUSTS_ACT_1950", "ACT:SOCIETIES_REGISTRATION_ACT_1860", "SEC:INCOME_TAX_ACT_1961:153C"], "inv": ["ACT:Y1860", "ACT:Y1950", "ACT:Y1961", "SEC:Y1961:153C"]}
+{"document_id": "2007_668", "split": "test", "full": ["ACT:INDIAN_SUCCESSION_ACT_1925"], "inv": ["ACT:Y1925"]}
+{"document_id": "1989_74", "split": "test", "full": ["ACT:CONST", "ACT:INCOME_TAX_ACT_1961"], "inv": ["ACT:CONST", "ACT:Y1961"]}
+{"document_id": "1972_567", "split": "test", "full": ["ACT:SALES_TAX_ACT_1959"], "inv": ["ACT:Y1959"]}
+{"document_id": "2023_615", "split": "test", "full": ["ACT:IS_CANTONMENTS_ACT_2006"], "inv": ["ACT:Y2006"]}
+{"document_id": "1954_84", "split": "test", "full": ["ACT:IPC", "SEC:IPC:161"], "inv": ["ACT:IPC", "SEC:IPC:161"]}
+{"document_id": "1995_789", "split": "test", "full": [], "inv": []}
+{"document_id": "2000_783", "split": "test", "full": ["ACT:LAND_REFORMS_ACT_1961", "SEC:LAND_REFORMS_ACT_1961:14", "SEC:LAND_REFORMS_ACT_1961:44"], "inv": ["ACT:Y1961", "SEC:Y1961:14", "SEC:Y1961:44"]}
+{"document_id": "2000_33", "split": "test", "full": ["ACT:ENTRY_GOODS_ACT_1979"], "inv": ["ACT:Y1979"]}
+{"document_id": "1977_240", "split": "test", "full": ["ACT:CRPC", "SEC:CRPC:226", "SEC:CRPC:227", "SEC:CRPC:228"], "inv": ["ACT:CRPC", "SEC:CRPC:226", "SEC:CRPC:227", "SEC:CRPC:228"]}
+{"document_id": "1976_313", "split": "test", "full": ["ACT:IPC"], "inv": ["ACT:IPC"]}
+{"document_id": "1961_292", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1922", "SEC:INCOME_TAX_ACT_1922:16", "SEC:INCOME_TAX_ACT_1922:2"], "inv": ["ACT:Y1922", "SEC:Y1922:16", "SEC:Y1922:2"]}
+{"document_id": "1999_617", "split": "test", "full": ["ACT:RENT_CONTROL_ACT_1960"], "inv": ["ACT:Y1960"]}
+{"document_id": "2022_615", "split": "test", "full": ["ACT:MOTOR_VEHICLES_ACT_1988"], "inv": ["ACT:Y1988"]}
+{"document_id": "2002_486", "split": "test", "full": ["ACT:CONST", "SEC:CONST:14"], "inv": ["ACT:CONST", "SEC:CONST:14"]}
+{"document_id": "2019_514", "split": "test", "full": ["ACT:CPC", "ACT:HINDU_SUCCESSION_ACT_1956"], "inv": ["ACT:CPC", "ACT:Y1956"]}
+{"document_id": "2006_85", "split": "test", "full": [], "inv": []}
+{"document_id": "1990_346", "split": "test", "full": ["ACT:ACTIVITIES_PREVENTION_ACT_1987", "ACT:IPC", "SEC:ACTIVITIES_PREVENTION_ACT_1987:3"], "inv": ["ACT:IPC", "ACT:Y1987", "SEC:Y1987:3"]}
+{"document_id": "1995_1282", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:17", "SEC:LAND_ACQUISITION_ACT_1894:4", "SEC:LAND_ACQUISITION_ACT_1894:5A"], "inv": ["ACT:Y1894", "SEC:Y1894:17", "SEC:Y1894:4", "SEC:Y1894:5A"]}
+{"document_id": "2005_233", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1994_346", "split": "test", "full": [], "inv": []}
+{"document_id": "1956_79", "split": "test", "full": [], "inv": []}
+{"document_id": "2009_1497", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1961"], "inv": ["ACT:Y1961"]}
+{"document_id": "1968_340", "split": "test", "full": ["ACT:EXCHANGE_REGULATION_ACT_1947", "SEC:EXCHANGE_REGULATION_ACT_1947:12", "SEC:EXCHANGE_REGULATION_ACT_1947:22", "SEC:EXCHANGE_REGULATION_ACT_1947:23"], "inv": ["ACT:Y1947", "SEC:Y1947:12", "SEC:Y1947:22", "SEC:Y1947:23"]}
+{"document_id": "1987_131", "split": "test", "full": ["ACT:STATE_INSURANCE_ACT_1948", "SEC:STATE_INSURANCE_ACT_1948:75"], "inv": ["ACT:Y1948", "SEC:Y1948:75"]}
+{"document_id": "1965_333", "split": "test", "full": ["ACT:FOOD_ADULTERATION_ACT_1954", "SEC:FOOD_ADULTERATION_ACT_1954:7"], "inv": ["ACT:Y1954", "SEC:Y1954:7"]}
+{"document_id": "2007_807", "split": "test", "full": ["ACT:HEALTH_SCIENCES_ACT_1998", "ACT:MEDICAL_COUNCIL_ACT_1956"], "inv": ["ACT:Y1956", "ACT:Y1998"]}
+{"document_id": "2001_311", "split": "test", "full": ["ACT:INDIAN_STAMP_ACT_1899", "ACT:PRADESH_STAMP_ACT_1999"], "inv": ["ACT:Y1899", "ACT:Y1999"]}
+{"document_id": "1988_220", "split": "test", "full": ["ACT:TRANSFER_PROPERTY_ACT_1882"], "inv": ["ACT:Y1882"]}
+{"document_id": "1976_218", "split": "test", "full": [], "inv": []}
+{"document_id": "1971_112", "split": "test", "full": ["ACT:CONST", "ACT:DEFENCE_INDIA_ACT_1939", "ACT:LIMITATION_ACT_1908", "SEC:CONST:144"], "inv": ["ACT:CONST", "ACT:Y1908", "ACT:Y1939", "SEC:CONST:144"]}
+{"document_id": "1996_404", "split": "test", "full": ["ACT:ADMINISTRATIVE_TRIBUNAL_ACT_1986"], "inv": ["ACT:Y1986"]}
+{"document_id": "1953_124", "split": "test", "full": [], "inv": []}
+{"document_id": "1987_114", "split": "test", "full": ["ACT:SMUGGLING_ACTIVITIES_ACT_1974"], "inv": ["ACT:Y1974"]}
+{"document_id": "1994_987", "split": "test", "full": ["ACT:EXCISES_SALT_ACT_1944"], "inv": ["ACT:Y1944"]}
+{"document_id": "2003_1113", "split": "test", "full": ["ACT:CENTRAL_EXCISE_ACT_1944", "ACT:EXCISE_TARIFF_ACT_1985"], "inv": ["ACT:Y1944", "ACT:Y1985"]}
+{"document_id": "2005_659", "split": "test", "full": ["ACT:IPC", "SEC:IPC:323", "SEC:IPC:324", "SEC:IPC:34", "SEC:IPC:341"], "inv": ["ACT:IPC", "SEC:IPC:323", "SEC:IPC:324", "SEC:IPC:34", "SEC:IPC:341"]}
+{"document_id": "1971_47", "split": "test", "full": [], "inv": []}
+{"document_id": "1962_171", "split": "test", "full": ["ACT:CITIZENSHIP_ACT_1955", "SEC:CITIZENSHIP_ACT_1955:9"], "inv": ["ACT:Y1955", "SEC:Y1955:9"]}
+{"document_id": "2004_33", "split": "test", "full": ["ACT:CONST", "SEC:CONST:311"], "inv": ["ACT:CONST", "SEC:CONST:311"]}
+{"document_id": "1996_905", "split": "test", "full": [], "inv": []}
+{"document_id": "1997_858", "split": "test", "full": ["ACT:SALES_TAX_ACT_1941", "SEC:SALES_TAX_ACT_1941:10A"], "inv": ["ACT:Y1941", "SEC:Y1941:10A"]}
+{"document_id": "2000_771", "split": "test", "full": ["ACT:AGRA_TENANCY_ACT_1926", "ACT:PROVINCE_TENANCY_ACT_1901", "ACT:TENANCY_ACT_1939"], "inv": ["ACT:Y1901", "ACT:Y1926", "ACT:Y1939"]}
+{"document_id": "2003_1348", "split": "test", "full": ["ACT:IPC", "SEC:IPC:201", "SEC:IPC:302", "SEC:IPC:34"], "inv": ["ACT:IPC", "SEC:IPC:201", "SEC:IPC:302", "SEC:IPC:34"]}
+{"document_id": "2000_1157", "split": "test", "full": ["ACT:SALES_TAX_ACT_1956", "ACT:SALES_TAX_ACT_1973", "SEC:SALES_TAX_ACT_1973:39"], "inv": ["ACT:Y1956", "ACT:Y1973", "SEC:Y1973:39"]}
+{"document_id": "1987_600", "split": "test", "full": ["ACT:CRPC", "ACT:IPC", "SEC:CRPC:195", "SEC:CRPC:468", "SEC:IPC:120B", "SEC:IPC:420", "SEC:IPC:465", "SEC:IPC:468", "SEC:IPC:471", "SEC:IPC:474"], "inv": ["ACT:CRPC", "ACT:IPC", "SEC:CRPC:195", "SEC:CRPC:468", "SEC:IPC:120B", "SEC:IPC:420", "SEC:IPC:465", "SEC:IPC:468", "SEC:IPC:471", "SEC:IPC:474"]}
+{"document_id": "1995_1047", "split": "test", "full": ["ACT:RENT_RESTRICTION_ACT_1949", "SEC:RENT_RESTRICTION_ACT_1949:13"], "inv": ["ACT:Y1949", "SEC:Y1949:13"]}
+{"document_id": "2009_588", "split": "test", "full": ["ACT:SALES_TAX_ACT_1973", "SEC:SALES_TAX_ACT_1973:13B"], "inv": ["ACT:Y1973", "SEC:Y1973:13B"]}
+{"document_id": "1976_112", "split": "test", "full": ["ACT:PROVIDENT_FUNDS_ACT_1925", "SEC:PROVIDENT_FUNDS_ACT_1925:3", "SEC:PROVIDENT_FUNDS_ACT_1925:4", "SEC:PROVIDENT_FUNDS_ACT_1925:60"], "inv": ["ACT:Y1925", "SEC:Y1925:3", "SEC:Y1925:4", "SEC:Y1925:60"]}
+{"document_id": "1971_552", "split": "test", "full": ["ACT:ARBITRATION_ACT_1940"], "inv": ["ACT:Y1940"]}
+{"document_id": "1979_394", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:18"], "inv": ["ACT:Y1894", "SEC:Y1894:18"]}
+{"document_id": "1962_188", "split": "test", "full": ["ACT:INDIAN_RAILWAYS_ACT_1890", "ACT:RAILWAYS_AMENDMENT_ACT_1957", "SEC:RAILWAYS_AMENDMENT_ACT_1957:34"], "inv": ["ACT:Y1890", "ACT:Y1957", "SEC:Y1957:34"]}
+{"document_id": "2022_588", "split": "test", "full": ["ACT:SCHEDULED_TRIBES_ACT_1974"], "inv": ["ACT:Y1974"]}
+{"document_id": "1974_153", "split": "test", "full": ["ACT:CONST", "SEC:CONST:226", "SEC:CONST:227"], "inv": ["ACT:CONST", "SEC:CONST:226", "SEC:CONST:227"]}
+{"document_id": "2019_282", "split": "test", "full": ["ACT:AREA_DEVELOPMENT_ACT_1966", "ACT:COUNTRY_PLANNING_ACT_1961", "ACT:GREEN_TRIBUNAL_ACT_2010", "ACT:MUNICIPAL_CORPORATIONS_ACT_1976"], "inv": ["ACT:Y1961", "ACT:Y1966", "ACT:Y1976", "ACT:Y2010"]}
+{"document_id": "2001_401", "split": "test", "full": ["ACT:INDIAN_EASEMENTS_ACT_1882"], "inv": ["ACT:Y1882"]}
+{"document_id": "2007_876", "split": "test", "full": ["ACT:LAND_REFORMS_ACT_1961"], "inv": ["ACT:Y1961"]}
+{"document_id": "2019_176", "split": "test", "full": ["ACT:ACTIVITIES_PREVENTION_ACT_1967"], "inv": ["ACT:Y1967"]}
+{"document_id": "1994_584", "split": "test", "full": [], "inv": []}
+{"document_id": "1995_104", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:4"], "inv": ["ACT:Y1894", "SEC:Y1894:4"]}
+{"document_id": "1992_659", "split": "test", "full": [], "inv": []}
+{"document_id": "2001_521", "split": "test", "full": ["ACT:ARBITRATION_CONCILIATION_ACT_1996"], "inv": ["ACT:Y1996"]}
+{"document_id": "2009_478", "split": "test", "full": ["ACT:SALES_TAX_ACT_1956"], "inv": ["ACT:Y1956"]}
+{"document_id": "2007_1368", "split": "test", "full": ["ACT:MOTOR_VEHICLES_ACT_1988", "SEC:MOTOR_VEHICLES_ACT_1988:140"], "inv": ["ACT:Y1988", "SEC:Y1988:140"]}
+{"document_id": "2007_299", "split": "test", "full": ["ACT:CRPC", "ACT:IPC", "SEC:IPC:406", "SEC:IPC:420"], "inv": ["ACT:CRPC", "ACT:IPC", "SEC:IPC:406", "SEC:IPC:420"]}
+{"document_id": "2008_262", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1999_1028", "split": "test", "full": ["ACT:EMPLOYEES_INSURANCE_ACT_1948", "ACT:INDIAN_COMPANIES_ACT_1956"], "inv": ["ACT:Y1948", "ACT:Y1956"]}
+{"document_id": "1997_379", "split": "test", "full": [], "inv": []}
+{"document_id": "1980_116", "split": "test", "full": ["ACT:RENT_CONTROL_ACT_1960", "SEC:RENT_CONTROL_ACT_1960:10", "SEC:RENT_CONTROL_ACT_1960:25"], "inv": ["ACT:Y1960", "SEC:Y1960:10", "SEC:Y1960:25"]}
+{"document_id": "1995_294", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1961", "ACT:SPECIAL_PROVISIONS_ACT_1985"], "inv": ["ACT:Y1961", "ACT:Y1985"]}
+{"document_id": "2008_1478", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "1998_661", "split": "test", "full": ["ACT:MUNICIPAL_CORPORATION_ACT_1888", "ACT:MUNICIPAL_CORPORATION_ACT_1949"], "inv": ["ACT:Y1888", "ACT:Y1949"]}
+{"document_id": "2008_898", "split": "test", "full": ["ACT:CPC", "ACT:INDIAN_CONTRACT_ACT_1872", "ACT:INDIAN_EASEMENTS_ACT_1882", "ACT:IPC", "ACT:SPECIFIC_RELIEF_ACT_1963", "ACT:TRANSFER_PROPERTY_ACT_1882"], "inv": ["ACT:CPC", "ACT:IPC", "ACT:Y1872", "ACT:Y1882", "ACT:Y1963"]}
+{"document_id": "2006_70", "split": "test", "full": ["ACT:CONST", "ACT:TOWN_PLANNING_ACT_1966", "SEC:CONST:37", "SEC:TOWN_PLANNING_ACT_1966:37"], "inv": ["ACT:CONST", "ACT:Y1966", "SEC:CONST:37", "SEC:Y1966:37"]}
+{"document_id": "1979_343", "split": "test", "full": ["ACT:CHARITABLE_ENDOWMENTS_ACT_1951", "ACT:CONST", "ACT:STATES_REORGANISATION_ACT_1956", "SEC:CONST:14"], "inv": ["ACT:CONST", "ACT:Y1951", "ACT:Y1956", "SEC:CONST:14"]}
+{"document_id": "1985_361", "split": "test", "full": ["ACT:PAYMENT_BONUS_ACT_1965", "SEC:PAYMENT_BONUS_ACT_1965:32"], "inv": ["ACT:Y1965", "SEC:Y1965:32"]}
+{"document_id": "1967_47", "split": "test", "full": ["ACT:SALES_TAX_ACT_1958"], "inv": ["ACT:Y1958"]}
+{"document_id": "1964_133", "split": "test", "full": ["ACT:ESTATE_DUTY_ACT_1953", "ACT:INCOME_TAX_ACT_1922", "SEC:ESTATE_DUTY_ACT_1953:10", "SEC:ESTATE_DUTY_ACT_1953:84"], "inv": ["ACT:Y1922", "ACT:Y1953", "SEC:Y1953:10", "SEC:Y1953:84"]}
+{"document_id": "2004_75", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:498A"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:498A"]}
+{"document_id": "2006_705", "split": "test", "full": ["ACT:CPC"], "inv": ["ACT:CPC"]}
+{"document_id": "1971_541", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1922", "SEC:INCOME_TAX_ACT_1922:2"], "inv": ["ACT:Y1922", "SEC:Y1922:2"]}
+{"document_id": "1971_313", "split": "test", "full": ["ACT:IPC", "SEC:IPC:324"], "inv": ["ACT:IPC", "SEC:IPC:324"]}
+{"document_id": "2003_1012", "split": "test", "full": ["ACT:MEDICAL_COUNCIL_ACT_1956", "SEC:MEDICAL_COUNCIL_ACT_1956:10A", "SEC:MEDICAL_COUNCIL_ACT_1956:10B"], "inv": ["ACT:Y1956", "SEC:Y1956:10A", "SEC:Y1956:10B"]}
+{"document_id": "1979_503", "split": "test", "full": ["ACT:CONST", "ACT:REPRESENTATION_PEOPLE_ACT_1951", "SEC:CONST:173", "SEC:REPRESENTATION_PEOPLE_ACT_1951:100"], "inv": ["ACT:CONST", "ACT:Y1951", "SEC:CONST:173", "SEC:Y1951:100"]}
+{"document_id": "2008_2563", "split": "test", "full": ["ACT:DEFENCE_INDIA_ACT_1962", "ACT:DEFENCE_INDIA_ACT_1971", "ACT:IMMOVABLE_PROPERTY_ACT_1952", "ACT:INTEREST_ACT_1839", "ACT:INTEREST_ACT_1978", "SEC:DEFENCE_INDIA_ACT_1962:29"], "inv": ["ACT:Y1839", "ACT:Y1952", "ACT:Y1962", "ACT:Y1971", "ACT:Y1978", "SEC:Y1962:29"]}
+{"document_id": "1963_197", "split": "test", "full": ["ACT:CONSOLIDATION_HOLDINGS_ACT_1953", "SEC:CONSOLIDATION_HOLDINGS_ACT_1953:16A"], "inv": ["ACT:Y1953", "SEC:Y1953:16A"]}
+{"document_id": "2006_1003", "split": "test", "full": ["ACT:COOPERATIVE_SOCIETIES_ACT_1961", "ACT:INDUSTRIAL_DISPUTES_ACT_1947", "SEC:INDUSTRIAL_DISPUTES_ACT_1947:2A"], "inv": ["ACT:Y1947", "ACT:Y1961", "SEC:Y1947:2A"]}
+{"document_id": "1977_230", "split": "test", "full": ["ACT:COMPANIES_ACT_1956", "ACT:INDIAN_PARTNERSHIP_ACT_1932", "ACT:X_COMPANIES_ACT_1956"], "inv": ["ACT:Y1932", "ACT:Y1956"]}
+{"document_id": "2004_1116", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:304"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:304"]}
+{"document_id": "1972_507", "split": "test", "full": ["ACT:CRPC", "ACT:IPC", "ACT:MANAGEMENT_TRANSFER_ACT_1963", "SEC:IPC:13", "SEC:IPC:420"], "inv": ["ACT:CRPC", "ACT:IPC", "ACT:Y1963", "SEC:IPC:13", "SEC:IPC:420"]}
+{"document_id": "1999_1074", "split": "test", "full": ["ACT:IPC"], "inv": ["ACT:IPC"]}
+{"document_id": "1967_13", "split": "test", "full": ["ACT:CITIZENSHIP_ACT_1955"], "inv": ["ACT:Y1955"]}
+{"document_id": "1972_107", "split": "test", "full": [], "inv": []}
+{"document_id": "1960_97", "split": "test", "full": ["ACT:THEINDUSTRIAL_DISPUTES_ACT_1947"], "inv": ["ACT:Y1947"]}
+{"document_id": "1994_751", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:302"]}
+{"document_id": "2008_1926", "split": "test", "full": ["ACT:IPC"], "inv": ["ACT:IPC"]}
+{"document_id": "2009_1778", "split": "test", "full": ["ACT:LABOUR_PRACTICES_ACT_1971"], "inv": ["ACT:Y1971"]}
+{"document_id": "1986_294", "split": "test", "full": ["ACT:AGRICULTURAL_LANDS_ACT_1948"], "inv": ["ACT:Y1948"]}
+{"document_id": "1996_2074", "split": "test", "full": ["ACT:CONST", "ACT:SALES_TAX_ACT_1962", "SEC:CONST:301", "SEC:CONST:304"], "inv": ["ACT:CONST", "ACT:Y1962", "SEC:CONST:301", "SEC:CONST:304"]}
+{"document_id": "2008_1271", "split": "test", "full": ["ACT:SCIENCE_TECHNOLOGY_ACT_1976"], "inv": ["ACT:Y1976"]}
+{"document_id": "2009_2057", "split": "test", "full": ["ACT:CENTRAL_EXCISE_ACT_1944", "ACT:EXCISE_TARIFF_ACT_1985"], "inv": ["ACT:Y1944", "ACT:Y1985"]}
+{"document_id": "1974_275", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1922"], "inv": ["ACT:Y1922"]}
+{"document_id": "1976_299", "split": "test", "full": ["ACT:AMENDING_ACT_1947", "ACT:VILLAGE_PANCHAYAT_ACT_1933"], "inv": ["ACT:Y1933", "ACT:Y1947"]}
+{"document_id": "1969_411", "split": "test", "full": ["ACT:ENCUMBERED_ESTATES_ACT_1934", "ACT:LAND_REFORMS_ACT_1950"], "inv": ["ACT:Y1934", "ACT:Y1950"]}
+{"document_id": "1996_100", "split": "test", "full": ["ACT:AMENDED_BY_ACT_1984", "ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:23"], "inv": ["ACT:Y1894", "ACT:Y1984", "SEC:Y1894:23"]}
+{"document_id": "1970_78", "split": "test", "full": ["ACT:ACT_1901", "ACT:ACT_1925", "ACT:REFERRED_AS_ACT_1901"], "inv": ["ACT:Y1901", "ACT:Y1925"]}
+{"document_id": "1989_270", "split": "test", "full": ["ACT:BOMBAY_RENT_ACT_1947"], "inv": ["ACT:Y1947"]}
+{"document_id": "2015_581", "split": "test", "full": [], "inv": []}
+{"document_id": "2002_554", "split": "test", "full": ["ACT:CONST", "SEC:CONST:309"], "inv": ["ACT:CONST", "SEC:CONST:309"]}
+{"document_id": "2007_1150", "split": "test", "full": ["ACT:ACT_1910", "ACT:B_ELECTRICITY_ACT_1910", "SEC:B_ELECTRICITY_ACT_1910:22B"], "inv": ["ACT:Y1910", "SEC:Y1910:22B"]}
+{"document_id": "1999_63", "split": "test", "full": ["ACT:GUJARAT_MUNICIPALITIES_ACT_1963", "ACT:GUJARAT_PANCHAYAT_ACT_1961", "ACT:INDUSTRIAL_DEVELOPMENT_ACT_1962", "SEC:GUJARAT_MUNICIPALITIES_ACT_1963:16", "SEC:GUJARAT_PANCHAYAT_ACT_1961:9", "SEC:INDUSTRIAL_DEVELOPMENT_ACT_1962:16"], "inv": ["ACT:Y1961", "ACT:Y1962", "ACT:Y1963", "SEC:Y1961:9", "SEC:Y1962:16", "SEC:Y1963:16"]}
+{"document_id": "1964_25", "split": "test", "full": ["ACT:INDIAN_EVIDENCE_ACT_1872", "SEC:INDIAN_EVIDENCE_ACT_1872:133", "SEC:INDIAN_EVIDENCE_ACT_1872:3", "SEC:INDIAN_EVIDENCE_ACT_1872:30"], "inv": ["ACT:Y1872", "SEC:Y1872:133", "SEC:Y1872:3", "SEC:Y1872:30"]}
+{"document_id": "1995_111", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1984", "ACT:TOWN_IMPROVEMENT_ACT_1922"], "inv": ["ACT:Y1922", "ACT:Y1984"]}
+{"document_id": "1976_234", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1950", "SEC:INCOME_TAX_ACT_1950:17", "SEC:INCOME_TAX_ACT_1950:18", "SEC:INCOME_TAX_ACT_1950:19", "SEC:INCOME_TAX_ACT_1950:3", "SEC:INCOME_TAX_ACT_1950:31", "SEC:INCOME_TAX_ACT_1950:32", "SEC:INCOME_TAX_ACT_1950:34", "SEC:INCOME_TAX_ACT_1950:35", "SEC:INCOME_TAX_ACT_1950:5"], "inv": ["ACT:Y1950", "SEC:Y1950:17", "SEC:Y1950:18", "SEC:Y1950:19", "SEC:Y1950:3", "SEC:Y1950:31", "SEC:Y1950:32", "SEC:Y1950:34", "SEC:Y1950:35", "SEC:Y1950:5"]}
+{"document_id": "2006_77", "split": "test", "full": ["ACT:COUNTRY_PLANNING_ACT_1961", "ACT:DEVELOPMENT_AUTHORITY_ACT_1976"], "inv": ["ACT:Y1961", "ACT:Y1976"]}
+{"document_id": "1999_360", "split": "test", "full": ["ACT:EVICTION_CONTROL_ACT_1960", "SEC:EVICTION_CONTROL_ACT_1960:10"], "inv": ["ACT:Y1960", "SEC:Y1960:10"]}
+{"document_id": "1979_172", "split": "test", "full": ["ACT:BY_LIMITATION_ACT_1963", "ACT:LIMITATION_ACT_1963", "SEC:BY_LIMITATION_ACT_1963:29"], "inv": ["ACT:Y1963", "SEC:Y1963:29"]}
+{"document_id": "2010_1179", "split": "test", "full": [], "inv": []}
+{"document_id": "1982_49", "split": "test", "full": ["ACT:INDUSTRIAL_DISPUTES_ACT_1947", "SEC:INDUSTRIAL_DISPUTES_ACT_1947:25F"], "inv": ["ACT:Y1947", "SEC:Y1947:25F"]}
+{"document_id": "1998_50", "split": "test", "full": ["ACT:FIRE_FORCE_ACT_1964"], "inv": ["ACT:Y1964"]}
+{"document_id": "1970_164", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1922"], "inv": ["ACT:Y1922"]}
+{"document_id": "2022_63", "split": "test", "full": [], "inv": []}
+{"document_id": "2024_197", "split": "test", "full": ["ACT:CRPC", "ACT:DAAIN_PRACTICES_ACT_1999", "ACT:IPC", "SEC:CRPC:82", "SEC:DAAIN_PRACTICES_ACT_1999:3", "SEC:IPC:323", "SEC:IPC:341", "SEC:IPC:354B", "SEC:IPC:504"], "inv": ["ACT:CRPC", "ACT:IPC", "ACT:Y1999", "SEC:CRPC:82", "SEC:IPC:323", "SEC:IPC:341", "SEC:IPC:354B", "SEC:IPC:504", "SEC:Y1999:3"]}
+{"document_id": "1993_247", "split": "test", "full": [], "inv": []}
+{"document_id": "2006_538", "split": "test", "full": ["ACT:INDUSTRIAL_DISPUTES_ACT_1947"], "inv": ["ACT:Y1947"]}
+{"document_id": "1961_6", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1922", "SEC:INCOME_TAX_ACT_1922:16"], "inv": ["ACT:Y1922", "SEC:Y1922:16"]}
+{"document_id": "1965_19", "split": "test", "full": ["ACT:CPC"], "inv": ["ACT:CPC"]}
+{"document_id": "1996_1527", "split": "test", "full": ["ACT:COOPERATIVE_SOCIETIES_ACT_1961", "ACT:INDUSTRIAL_DISPUTES_ACT_1947", "SEC:COOPERATIVE_SOCIETIES_ACT_1961:19", "SEC:COOPERATIVE_SOCIETIES_ACT_1961:84B", "SEC:COOPERATIVE_SOCIETIES_ACT_1961:9A"], "inv": ["ACT:Y1947", "ACT:Y1961", "SEC:Y1961:19", "SEC:Y1961:84B", "SEC:Y1961:9A"]}
+{"document_id": "2008_1544", "split": "test", "full": ["ACT:ADOPTION_MAINTENANCE_ACT_1956", "ACT:HINDU_SUCCESSION_ACT_1956"], "inv": ["ACT:Y1956"]}
+{"document_id": "2021_395", "split": "test", "full": ["ACT:IPC", "SEC:IPC:120B", "SEC:IPC:147", "SEC:IPC:149", "SEC:IPC:201", "SEC:IPC:218", "SEC:IPC:302"], "inv": ["ACT:IPC", "SEC:IPC:120B", "SEC:IPC:147", "SEC:IPC:149", "SEC:IPC:201", "SEC:IPC:218", "SEC:IPC:302"]}
+{"document_id": "1994_857", "split": "test", "full": ["ACT:WEALTH_TAX_ACT_1957", "SEC:WEALTH_TAX_ACT_1957:46"], "inv": ["ACT:Y1957", "SEC:Y1957:46"]}
+{"document_id": "1973_59", "split": "test", "full": ["ACT:ESTATE_DUTY_ACT_1953", "SEC:ESTATE_DUTY_ACT_1953:10"], "inv": ["ACT:Y1953", "SEC:Y1953:10"]}
+{"document_id": "2004_207", "split": "test", "full": ["ACT:TRADING_LIMITED_ACT_1981"], "inv": ["ACT:Y1981"]}
+{"document_id": "2008_2527", "split": "test", "full": ["ACT:INDIAN_FOREST_ACT_1927", "SEC:INDIAN_FOREST_ACT_1927:61A", "SEC:INDIAN_FOREST_ACT_1927:61D"], "inv": ["ACT:Y1927", "SEC:Y1927:61A", "SEC:Y1927:61D"]}
+{"document_id": "2002_291", "split": "test", "full": ["ACT:TAKING_OVER_ACT_1977", "SEC:TAKING_OVER_ACT_1977:3", "SEC:TAKING_OVER_ACT_1977:6"], "inv": ["ACT:Y1977", "SEC:Y1977:3", "SEC:Y1977:6"]}
+{"document_id": "1972_373", "split": "test", "full": ["ACT:INTERNAL_SECURITY_ACT_1971"], "inv": ["ACT:Y1971"]}
+{"document_id": "2006_657", "split": "test", "full": ["ACT:IPC"], "inv": ["ACT:IPC"]}
+{"document_id": "1998_614", "split": "test", "full": ["ACT:INTERMEDIATE_EDUCATION_ACT_1921", "SEC:INTERMEDIATE_EDUCATION_ACT_1921:9"], "inv": ["ACT:Y1921", "SEC:Y1921:9"]}
+{"document_id": "1995_701", "split": "test", "full": [], "inv": []}
+{"document_id": "1979_301", "split": "test", "full": [], "inv": []}
+{"document_id": "2003_360", "split": "test", "full": [], "inv": []}
+{"document_id": "1994_1075", "split": "test", "full": ["ACT:FINANCIAL_CORPORATION_ACT_1951"], "inv": ["ACT:Y1951"]}
+{"document_id": "1976_174", "split": "test", "full": [], "inv": []}
+{"document_id": "2020_18", "split": "test", "full": ["ACT:HINDU_SUCCESSION_ACT_1956", "ACT:MINORITY_GUARDIANSHIP_ACT_1956"], "inv": ["ACT:Y1956"]}
+{"document_id": "2003_49", "split": "test", "full": ["ACT:CPC"], "inv": ["ACT:CPC"]}
+{"document_id": "2018_400", "split": "test", "full": ["ACT:CONST", "SEC:CONST:234", "SEC:CONST:309"], "inv": ["ACT:CONST", "SEC:CONST:234", "SEC:CONST:309"]}
+{"document_id": "1967_301", "split": "test", "full": ["ACT:INCOME_TAX_ACT_1922", "ACT:STATES_AMENDMENT_ACT_1949", "SEC:STATES_AMENDMENT_ACT_1949:6"], "inv": ["ACT:Y1922", "ACT:Y1949", "SEC:Y1949:6"]}
+{"document_id": "2023_472", "split": "test", "full": ["ACT:EXCISE_TARIFF_ACT_1985", "ACT:SALES_TAX_ACT_1956", "ACT:SALES_TAX_ACT_1959", "ACT:SALES_TAX_ACT_1975", "ACT:SPECIAL_IMPORTANCE_ACT_1957", "ACT:TRADE_TAX_ACT_1948"], "inv": ["ACT:Y1948", "ACT:Y1956", "ACT:Y1957", "ACT:Y1959", "ACT:Y1975", "ACT:Y1985"]}
+{"document_id": "1975_471", "split": "test", "full": ["ACT:FOOD_ADULTERATION_ACT_1954", "SEC:FOOD_ADULTERATION_ACT_1954:16", "SEC:FOOD_ADULTERATION_ACT_1954:7"], "inv": ["ACT:Y1954", "SEC:Y1954:16", "SEC:Y1954:7"]}
+{"document_id": "1987_512", "split": "test", "full": ["ACT:CONST", "SEC:CONST:226", "SEC:CONST:32"], "inv": ["ACT:CONST", "SEC:CONST:226", "SEC:CONST:32"]}
+{"document_id": "1962_167", "split": "test", "full": ["ACT:IPC", "SEC:IPC:12", "SEC:IPC:120B", "SEC:IPC:13", "SEC:IPC:409"], "inv": ["ACT:IPC", "SEC:IPC:12", "SEC:IPC:120B", "SEC:IPC:13", "SEC:IPC:409"]}
+{"document_id": "2008_908", "split": "test", "full": [], "inv": []}
+{"document_id": "2023_597", "split": "test", "full": ["ACT:CONST", "ACT:LAND_ACQUISITION_ACT_1894", "ACT:REHABILITATION_RESETTLEMENT_ACT_2013", "SEC:CONST:226"], "inv": ["ACT:CONST", "ACT:Y1894", "ACT:Y2013", "SEC:CONST:226"]}
+{"document_id": "1964_47", "split": "test", "full": ["ACT:EVACUEE_PROPERTY_ACT_1950", "ACT:LIMITATION_ACT_1908", "SEC:EVACUEE_PROPERTY_ACT_1950:48"], "inv": ["ACT:Y1908", "ACT:Y1950", "SEC:Y1950:48"]}
+{"document_id": "2005_696", "split": "test", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:304", "SEC:IPC:34"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:304", "SEC:IPC:34"]}
+{"document_id": "1974_72", "split": "test", "full": ["ACT:ALIENATION_ABOLITION_ACT_1955", "SEC:ALIENATION_ABOLITION_ACT_1955:17"], "inv": ["ACT:Y1955", "SEC:Y1955:17"]}
+{"document_id": "1959_226", "split": "test", "full": ["ACT:IPC", "SEC:IPC:120B", "SEC:IPC:34", "SEC:IPC:417", "SEC:IPC:467", "SEC:IPC:471", "SEC:IPC:511"], "inv": ["ACT:IPC", "SEC:IPC:120B", "SEC:IPC:34", "SEC:IPC:417", "SEC:IPC:467", "SEC:IPC:471", "SEC:IPC:511"]}
+{"document_id": "1996_275", "split": "test", "full": ["ACT:LANDS_TAX_ACT_1964", "SEC:LANDS_TAX_ACT_1964:3"], "inv": ["ACT:Y1964", "SEC:Y1964:3"]}
+{"document_id": "1995_1147", "split": "test", "full": ["ACT:HARYANA_MUNICIPALITIES_ACT_1973"], "inv": ["ACT:Y1973"]}
+{"document_id": "1996_410", "split": "test", "full": ["ACT:INDIAN_TELEGRAPH_ACT_1885"], "inv": ["ACT:Y1885"]}
+{"document_id": "2009_512", "split": "test", "full": ["ACT:CRPC"], "inv": ["ACT:CRPC"]}
+{"document_id": "2003_174", "split": "test", "full": ["ACT:INDIAN_PARTNERSHIP_ACT_1932"], "inv": ["ACT:Y1932"]}
+{"document_id": "1996_1359", "split": "test", "full": [], "inv": []}
+{"document_id": "2016_496", "split": "test", "full": ["ACT:FULL_PARTICIPATION_ACT_1995"], "inv": ["ACT:Y1995"]}
+{"document_id": "1988_504", "split": "test", "full": ["ACT:INDIA_LTD_ACT_1977"], "inv": ["ACT:Y1977"]}
+{"document_id": "1980_195", "split": "test", "full": ["ACT:INDIAN_CONTRACT_ACT_1872", "SEC:INDIAN_CONTRACT_ACT_1872:140", "SEC:INDIAN_CONTRACT_ACT_1872:141"], "inv": ["ACT:Y1872", "SEC:Y1872:140", "SEC:Y1872:141"]}
+{"document_id": "2000_1137", "split": "test", "full": ["ACT:INDIAN_COMPANIES_ACT_1956", "ACT:INDUSTRIAL_DISPUTES_ACT_1947"], "inv": ["ACT:Y1947", "ACT:Y1956"]}
+{"document_id": "1980_168", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894"], "inv": ["ACT:Y1894"]}
+{"document_id": "2022_919", "split": "test", "full": ["ACT:CONSUMER_PROTECTION_ACT_1986"], "inv": ["ACT:Y1986"]}
+{"document_id": "1996_439", "split": "test", "full": ["ACT:CRPC", "ACT:IPC"], "inv": ["ACT:CRPC", "ACT:IPC"]}
+{"document_id": "2003_1274", "split": "test", "full": [], "inv": []}
+{"document_id": "1980_170", "split": "test", "full": ["ACT:CONST", "SEC:CONST:14"], "inv": ["ACT:CONST", "SEC:CONST:14"]}
+{"document_id": "1988_379", "split": "test", "full": ["ACT:CUSTOMS_ACT_1962", "ACT:GOLD_CONTROL_ACT_1968", "SEC:GOLD_CONTROL_ACT_1968:95"], "inv": ["ACT:Y1962", "ACT:Y1968", "SEC:Y1968:95"]}
+{"document_id": "1953_20", "split": "test", "full": ["ACT:INDIAN_SUCCESSION_ACT_1925"], "inv": ["ACT:Y1925"]}
+{"document_id": "2006_371", "split": "test", "full": ["ACT:MINIMUM_WAGES_ACT_1948"], "inv": ["ACT:Y1948"]}
+{"document_id": "1971_341", "split": "test", "full": ["ACT:SALES_TAX_ACT_1954"], "inv": ["ACT:Y1954"]}
+{"document_id": "1977_86", "split": "test", "full": ["ACT:EVICTION_CONTROL_ACT_1947", "SEC:EVICTION_CONTROL_ACT_1947:11"], "inv": ["ACT:Y1947", "SEC:Y1947:11"]}
+{"document_id": "2010_418", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894"], "inv": ["ACT:Y1894"]}
+{"document_id": "1998_1269", "split": "test", "full": ["ACT:B_TENANCY_ACT_1958", "ACT:TENANCY_ACT_1958", "SEC:B_TENANCY_ACT_1958:129", "SEC:TENANCY_ACT_1958:129", "SEC:TENANCY_ACT_1958:54"], "inv": ["ACT:Y1958", "SEC:Y1958:129", "SEC:Y1958:54"]}
+{"document_id": "1987_317", "split": "test", "full": [], "inv": []}
+{"document_id": "2008_1700", "split": "test", "full": ["ACT:KARNATAKA_RENT_ACT_1999", "ACT:RENT_CONTROL_ACT_1961", "SEC:KARNATAKA_RENT_ACT_1999:2"], "inv": ["ACT:Y1961", "ACT:Y1999", "SEC:Y1999:2"]}
+{"document_id": "2003_551", "split": "test", "full": ["ACT:COMPANIES_ACT_1956", "ACT:CPC", "ACT:REGISTRATION_BOOKS_ACT_1867"], "inv": ["ACT:CPC", "ACT:Y1867", "ACT:Y1956"]}
+{"document_id": "2006_1030", "split": "test", "full": ["ACT:INDIAN_ELECTRICITY_ACT_1910"], "inv": ["ACT:Y1910"]}
+{"document_id": "2002_1231", "split": "test", "full": ["ACT:LAND_ACQUISITION_ACT_1894", "SEC:LAND_ACQUISITION_ACT_1894:28A"], "inv": ["ACT:Y1894", "SEC:Y1894:28A"]}
+{"document_id": "2024_156", "split": "test", "full": ["ACT:CONSUMER_PROTECTION_ACT_1986"], "inv": ["ACT:Y1986"]}
+{"document_id": "1997_355", "split": "dev", "full": [], "inv": []}
+{"document_id": "1995_191", "split": "dev", "full": ["ACT:TRADE_PRACTICES_ACT_1969", "SEC:TRADE_PRACTICES_ACT_1969:33"], "inv": ["ACT:Y1969", "SEC:Y1969:33"]}
+{"document_id": "1969_453", "split": "dev", "full": ["ACT:EXCISES_SALT_ACT_1944", "ACT:FINANCE_ACT_1961"], "inv": ["ACT:Y1944", "ACT:Y1961"]}
+{"document_id": "1967_41", "split": "dev", "full": ["ACT:CONST"], "inv": ["ACT:CONST"]}
+{"document_id": "1986_295", "split": "dev", "full": ["ACT:UNDERTAKINGS_NATIONALISATION_ACT_1974", "SEC:UNDERTAKINGS_NATIONALISATION_ACT_1974:21"], "inv": ["ACT:Y1974", "SEC:Y1974:21"]}
+{"document_id": "2019_323", "split": "dev", "full": ["ACT:EVICTION_CONTROL_ACT_1968", "ACT:GOA_RENT_ACT_1968", "ACT:INVENTORY_PROCEEDING_ACT_2012"], "inv": ["ACT:Y1968", "ACT:Y2012"]}
+{"document_id": "2018_632", "split": "dev", "full": [], "inv": []}
+{"document_id": "1961_340", "split": "dev", "full": ["ACT:CONST", "ACT:PRICE_PAGE_ACT_1956", "SEC:CONST:19"], "inv": ["ACT:CONST", "ACT:Y1956", "SEC:CONST:19"]}
+{"document_id": "1971_518", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1922", "SEC:INCOME_TAX_ACT_1922:34", "SEC:INCOME_TAX_ACT_1922:66"], "inv": ["ACT:Y1922", "SEC:Y1922:34", "SEC:Y1922:66"]}
+{"document_id": "1968_74", "split": "dev", "full": ["ACT:CONTRACTS_REGULATION_ACT_1952", "SEC:CONTRACTS_REGULATION_ACT_1952:11"], "inv": ["ACT:Y1952", "SEC:Y1952:11"]}
+{"document_id": "1999_1067", "split": "dev", "full": ["ACT:CENTRAL_EXCISE_ACT_1944"], "inv": ["ACT:Y1944"]}
+{"document_id": "2019_1167", "split": "dev", "full": ["ACT:CRPC", "ACT:MONEY_LAUNDERING_ACT_2002", "SEC:CRPC:439"], "inv": ["ACT:CRPC", "ACT:Y2002", "SEC:CRPC:439"]}
+{"document_id": "1974_48", "split": "dev", "full": ["ACT:PORT_TRUST_ACT_1879", "SEC:PORT_TRUST_ACT_1879:87"], "inv": ["ACT:Y1879", "SEC:Y1879:87"]}
+{"document_id": "1994_1145", "split": "dev", "full": ["ACT:MUNICIPAL_CORPORATION_ACT_1976", "SEC:MUNICIPAL_CORPORATION_ACT_1976:116"], "inv": ["ACT:Y1976", "SEC:Y1976:116"]}
+{"document_id": "2008_2392", "split": "dev", "full": ["ACT:AGRICULTURISTS_RELIEF_ACT_1938", "ACT:CPC", "SEC:AGRICULTURISTS_RELIEF_ACT_1938:23A", "SEC:CPC:144"], "inv": ["ACT:CPC", "ACT:Y1938", "SEC:CPC:144", "SEC:Y1938:23A"]}
+{"document_id": "1975_335", "split": "dev", "full": ["ACT:HINDU_SUCCESSION_ACT_1956"], "inv": ["ACT:Y1956"]}
+{"document_id": "1963_275", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1922"], "inv": ["ACT:Y1922"]}
+{"document_id": "2002_641", "split": "dev", "full": ["ACT:CONTROL_ACT_ACT_1960"], "inv": ["ACT:Y1960"]}
+{"document_id": "2010_520", "split": "dev", "full": ["ACT:CONST", "SEC:CONST:14", "SEC:CONST:309"], "inv": ["ACT:CONST", "SEC:CONST:14", "SEC:CONST:309"]}
+{"document_id": "2006_682", "split": "dev", "full": ["ACT:CRPC", "ACT:IPC", "SEC:IPC:307"], "inv": ["ACT:CRPC", "ACT:IPC", "SEC:IPC:307"]}
+{"document_id": "1976_51", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1961", "SEC:INCOME_TAX_ACT_1961:10"], "inv": ["ACT:Y1961", "SEC:Y1961:10"]}
+{"document_id": "1976_332", "split": "dev", "full": ["ACT:LIMITATION_ACT_1963", "ACT:MOTOR_VEHICLES_ACT_1939", "SEC:LIMITATION_ACT_1963:29", "SEC:LIMITATION_ACT_1963:58", "SEC:LIMITATION_ACT_1963:68F", "SEC:MOTOR_VEHICLES_ACT_1939:68C"], "inv": ["ACT:Y1939", "ACT:Y1963", "SEC:Y1939:68C", "SEC:Y1963:29", "SEC:Y1963:58", "SEC:Y1963:68F"]}
+{"document_id": "1976_32", "split": "dev", "full": ["ACT:LAND_REFORMS_ACT_1950", "SEC:LAND_REFORMS_ACT_1950:172", "SEC:LAND_REFORMS_ACT_1950:174"], "inv": ["ACT:Y1950", "SEC:Y1950:172", "SEC:Y1950:174"]}
+{"document_id": "2006_1108", "split": "dev", "full": ["ACT:EXCISE_TARIFF_ACT_1985"], "inv": ["ACT:Y1985"]}
+{"document_id": "1994_792", "split": "dev", "full": ["ACT:ACTIVITIES_PREVENTION_ACT_1987", "SEC:ACTIVITIES_PREVENTION_ACT_1987:20", "SEC:ACTIVITIES_PREVENTION_ACT_1987:5"], "inv": ["ACT:Y1987", "SEC:Y1987:20", "SEC:Y1987:5"]}
+{"document_id": "2000_327", "split": "dev", "full": ["ACT:CUSTOMS_ACT_1962", "ACT:EXPORT_CONTROL_ACT_1947"], "inv": ["ACT:Y1947", "ACT:Y1962"]}
+{"document_id": "2020_89", "split": "dev", "full": ["ACT:SPECIFIC_RELIEF_ACT_1963"], "inv": ["ACT:Y1963"]}
+{"document_id": "1972_431", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1922", "ACT:INCOME_TAX_ACT_1961", "SEC:INCOME_TAX_ACT_1922:33A", "SEC:INCOME_TAX_ACT_1922:35"], "inv": ["ACT:Y1922", "ACT:Y1961", "SEC:Y1922:33A", "SEC:Y1922:35"]}
+{"document_id": "2006_540", "split": "dev", "full": ["ACT:STATE_INSURANCE_ACT_1948"], "inv": ["ACT:Y1948"]}
+{"document_id": "2007_550", "split": "dev", "full": ["ACT:AIR_FORCE_ACT_1950"], "inv": ["ACT:Y1950"]}
+{"document_id": "1993_303", "split": "dev", "full": ["ACT:GUJARAT_MUNICIPALITIES_ACT_1963", "SEC:GUJARAT_MUNICIPALITIES_ACT_1963:105", "SEC:GUJARAT_MUNICIPALITIES_ACT_1963:112", "SEC:GUJARAT_MUNICIPALITIES_ACT_1963:2", "SEC:GUJARAT_MUNICIPALITIES_ACT_1963:99"], "inv": ["ACT:Y1963", "SEC:Y1963:105", "SEC:Y1963:112", "SEC:Y1963:2", "SEC:Y1963:99"]}
+{"document_id": "1962_143", "split": "dev", "full": ["ACT:SALES_TAX_ACT_1939", "SEC:SALES_TAX_ACT_1939:5", "SEC:SALES_TAX_ACT_1939:6"], "inv": ["ACT:Y1939", "SEC:Y1939:5", "SEC:Y1939:6"]}
+{"document_id": "2002_671", "split": "dev", "full": ["ACT:INDIAN_EASEMENTS_ACT_1882", "SEC:INDIAN_EASEMENTS_ACT_1882:52", "SEC:INDIAN_EASEMENTS_ACT_1882:64"], "inv": ["ACT:Y1882", "SEC:Y1882:52", "SEC:Y1882:64"]}
+{"document_id": "1999_98", "split": "dev", "full": [], "inv": []}
+{"document_id": "1981_155", "split": "dev", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:326", "SEC:IPC:34"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:326", "SEC:IPC:34"]}
+{"document_id": "2001_662", "split": "dev", "full": ["ACT:BUSINESS_NATIONALISATION_ACT_1972", "ACT:INDIAN_CONTRACT_ACT_1872"], "inv": ["ACT:Y1872", "ACT:Y1972"]}
+{"document_id": "2009_483", "split": "dev", "full": ["ACT:IPC"], "inv": ["ACT:IPC"]}
+{"document_id": "1997_930", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1922", "ACT:INCOME_TAX_ACT_1961"], "inv": ["ACT:Y1922", "ACT:Y1961"]}
+{"document_id": "1963_295", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1922", "SEC:INCOME_TAX_ACT_1922:10"], "inv": ["ACT:Y1922", "SEC:Y1922:10"]}
+{"document_id": "1983_157", "split": "dev", "full": ["ACT:IPC", "SEC:IPC:218", "SEC:IPC:302", "SEC:IPC:323", "SEC:IPC:34"], "inv": ["ACT:IPC", "SEC:IPC:218", "SEC:IPC:302", "SEC:IPC:323", "SEC:IPC:34"]}
+{"document_id": "1971_460", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1922"], "inv": ["ACT:Y1922"]}
+{"document_id": "1987_484", "split": "dev", "full": [], "inv": []}
+{"document_id": "2002_1219", "split": "dev", "full": ["ACT:RENT_CONTROL_ACT_1960", "SEC:RENT_CONTROL_ACT_1960:14"], "inv": ["ACT:Y1960", "SEC:Y1960:14"]}
+{"document_id": "1979_318", "split": "dev", "full": ["ACT:CRPC", "ACT:IPC", "SEC:CRPC:517", "SEC:CRPC:96", "SEC:IPC:302"], "inv": ["ACT:CRPC", "ACT:IPC", "SEC:CRPC:517", "SEC:CRPC:96", "SEC:IPC:302"]}
+{"document_id": "2003_1311", "split": "dev", "full": [], "inv": []}
+{"document_id": "2002_848", "split": "dev", "full": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:304"], "inv": ["ACT:IPC", "SEC:IPC:302", "SEC:IPC:304"]}
+{"document_id": "1951_13", "split": "dev", "full": [], "inv": []}
+{"document_id": "1988_225", "split": "dev", "full": ["ACT:RENT_EVICTION_ACT_1972", "SEC:RENT_EVICTION_ACT_1972:39", "SEC:RENT_EVICTION_ACT_1972:40"], "inv": ["ACT:Y1972", "SEC:Y1972:39", "SEC:Y1972:40"]}
+{"document_id": "2008_2807", "split": "dev", "full": ["ACT:MERCHANDISE_MARKS_ACT_1958", "SEC:MERCHANDISE_MARKS_ACT_1958:46"], "inv": ["ACT:Y1958", "SEC:Y1958:46"]}
+{"document_id": "1994_1118", "split": "dev", "full": [], "inv": []}
+{"document_id": "2022_160", "split": "dev", "full": ["ACT:BY_SARFAESI_ACT_2002", "ACT:SECURITY_INTEREST_ACT_2002"], "inv": ["ACT:Y2002"]}
+{"document_id": "1993_403", "split": "dev", "full": [], "inv": []}
+{"document_id": "2021_233", "split": "dev", "full": ["ACT:INCOME_TAX_ACT_1961", "SEC:INCOME_TAX_ACT_1961:80IA"], "inv": ["ACT:Y1961", "SEC:Y1961:80IA"]}
+{"document_id": "2009_444", "split": "dev", "full": ["ACT:CPC"], "inv": ["ACT:CPC"]}
+{"document_id": "1973_315", "split": "dev", "full": ["ACT:INTERNAL_SECURITY_ACT_1971"], "inv": ["ACT:Y1971"]}
+{"document_id": "2005_143", "split": "dev", "full": ["ACT:SALES_TAX_ACT_1957", "SEC:SALES_TAX_ACT_1957:5G"], "inv": ["ACT:Y1957", "SEC:Y1957:5G"]}
+{"document_id": "1997_1154", "split": "dev", "full": ["ACT:CONTEMPT_COURTS_ACT_1971", "SEC:CONTEMPT_COURTS_ACT_1971:2"], "inv": ["ACT:Y1971", "SEC:Y1971:2"]}
+{"document_id": "1962_79", "split": "dev", "full": ["ACT:LAND_RESETTLEMENT_ACT_1949", "ACT:LAND_REVENUE_ACT_1887"], "inv": ["ACT:Y1887", "ACT:Y1949"]}
+{"document_id": "1972_537", "split": "dev", "full": ["ACT:CONST", "SEC:CONST:286"], "inv": ["ACT:CONST", "SEC:CONST:286"]}
+{"document_id": "1968_77", "split": "dev", "full": ["ACT:LAND_REFORMS_ACT_1952", "ACT:LAND_REVENUE_ACT_1901", "SEC:LAND_REFORMS_ACT_1952:20"], "inv": ["ACT:Y1901", "ACT:Y1952", "SEC:Y1952:20"]}

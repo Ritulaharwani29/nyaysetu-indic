@@ -1,0 +1,10 @@
+,hi,mr,gu
+missing ACT anchor,7,4,15
+number found under a DIFFERENT act,6,6,10
+number found only as weak,2,7,6
+number absent from translation (translator),8,19,18
+"number present, not extracted (extractor gap)",1,5,9
+extra ACT anchor,10,9,17
+extra: number not in English (translator changed it),11,19,23
+"extra: number in English, other act",6,6,14
+"extra: number in English, not an English anchor",19,14,25

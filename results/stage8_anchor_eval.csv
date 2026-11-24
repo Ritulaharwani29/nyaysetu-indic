@@ -1,0 +1,12 @@
+,hi,mr,gu
+queries,360,360,360
+ACT recall,0.984,0.991,0.966
+ACT precision,0.977,0.98,0.962
+SEC recall (strict),0.944,0.879,0.859
+SEC precision (strict),0.889,0.873,0.809
+"SEC recall (number only, weak counted)",0.97,0.92,0.91
+exact set match,282/316 = 0.892,270/316 = 0.854,250/316 = 0.791
+queries with >=1 oracle anchor,316,316,316
+queries with >=1 oracle SECTION anchor,166,166,166
+oracle ACT anchors (denominator),440,440,440
+oracle SEC anchors (denominator),306,306,306
