@@ -1,3 +1,4 @@
+
 # NyaySetu-Indic
 
 **Cross-lingual retrieval-augmented judgment prediction for Indian Supreme Court cases, with queries in Hindi, Marathi and Gujarati over an English case corpus.**
@@ -19,6 +20,36 @@ NyaySetu-Indic ("Nyay" = justice, "Setu" = bridge) extends the [NyayaRAG](https:
 5. **Evaluation.** Accuracy, macro-F1, AUC, bootstrap confidence intervals, paired tests, kNN-vote and statutory-relevance retrieval metrics, stratification by anchor availability, and cross-lingual consistency.
 
 ## 2. Pipeline
+
+End-to-end flow of the project (renders as a diagram on GitHub):
+
+```mermaid
+flowchart TD
+    A["NyayaRAG data (HF)<br/>54,782 summaries"] --> B["Parse and split<br/>300 test + 60 dev<br/>corpus 52,947 English"]
+    B --> C["Query design<br/>Facts + Issues + Statute only<br/>(leakage check)"]
+    C --> D["Translate queries<br/>InLegalTrans to hi / mr / gu<br/>+ English original"]
+    D --> E["Extract anchors<br/>section numbers, act years, codes<br/>invariant IDs"]
+    D --> F["Multilingual encoders<br/>BGE-M3, mE5-large, mE5-base, LaBSE"]
+    B --> G["Encode English corpus<br/>23,883 labelled cases"]
+    F --> H["Cosine search"]
+    G --> H
+    H --> I["Hybrid rerank<br/>0.7 x cosine + 0.3 x anchor overlap"]
+    E --> I
+    H --> J["System: cos"]
+    I --> K["System: hyb"]
+    L["System: none<br/>no precedents"]
+    J --> M["LLM prompt<br/>case + top precedents with outcomes"]
+    K --> M
+    L --> M
+    M --> N["Verdict (ALLOWED / DISMISSED)<br/>from next-token probabilities"]
+    M --> O["Explanation in query language"]
+    N --> P["Evaluation<br/>accuracy, macro-F1, AUC, bootstrap CIs<br/>paired tests, cross-lingual consistency"]
+    O --> Q["Script-share check<br/>native review pending"]
+    P --> R["Figures, tables, README"]
+    Q --> R
+```
+
+The same flow in text form, for the query-to-verdict path:
 
 ```
 case (hi / mr / gu)
