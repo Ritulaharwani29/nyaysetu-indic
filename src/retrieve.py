@@ -259,18 +259,19 @@ def headline(TOP, D, best):
 
 
 def dump_top(TOP, D, best, path):
-    out = {}
+    out = {"alpha": {k: float(v) for k, v in best.items()}, "top": {}}
     for enc in ENCS:
         if enc not in best:
             continue
         a = best[enc]
+        out["top"][enc] = {}
         for lang in LANGS:
+            out["top"][enc][lang] = {}
             for strat, al in [("cos", 1.0), ("hyb_ext", a), ("hyb_oracle", a)]:
                 if (enc, lang, strat, al) not in TOP:
                     continue
                 top = TOP[(enc, lang, strat, al)]
-                key = f"{enc}__{lang}__{strat}"
-                out[key] = {
+                out["top"][enc][lang][strat] = {
                     qid: [D["ids_l"][j] for j in row]
                     for qid, row in zip(D["qids"], top)
                 }
