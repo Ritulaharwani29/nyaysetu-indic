@@ -6,8 +6,6 @@ NyaySetu-Indic ("Nyay" = justice, "Setu" = bridge) extends the [NyayaRAG](https:
 
 > **Status:** completed student research project. The pipeline, benchmark and evaluation are finished. The headline result is a negative one: **verdict prediction is not significantly better than the majority-class baseline for any system**, while **cross-lingual retrieval of statutorily relevant precedents clearly works**. Details, caveats and limitations are below.
 
-> **Data note:** this repository is private on purpose. `data/processed/queries_en.jsonl` contains gold rulings and text derived from Indian Kanoon, and the data licence has **not** been verified. Do not make the repository public and do not publish gold rulings.
-
 ---
 
 ## 1. Contributions
