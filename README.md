@@ -36,7 +36,7 @@ Systems compared in the end-to-end evaluation:
 | `cos` | LLM + top precedents by cosine similarity | en / hi / mr / gu |
 | `hyb` | LLM + top precedents after the anchor-hybrid rerank | en / hi / mr / gu |
 
-LLM: Qwen2.5-7B-Instruct, K = 3 precedents of 150 words each; verdict from next-token probabilities, explanations by greedy decoding. <!-- TODO: confirm the encoder used for the LLM precedents (bge_m3 assumed; llm.py takes it as a parameter) -->
+LLM: Qwen2.5-7B-Instruct, K = 3 precedents of 150 words each; verdict from next-token probabilities, explanations by greedy decoding. Precedents come from bge_m3 retrieval (results/stage10_top.json).
 
 ## 3. Data
 
